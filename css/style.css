@@ -35,7 +35,6 @@ body {
 }
 .column {
   float: left;
-
   padding: 10px;
 }
 
@@ -61,7 +60,7 @@ body {
 }
 .logo-footer img,
 .logo-header img {
-  max-width: 6em;
+  max-width: 163px;
 }
 .vk-portfolio-list .data .hide {
   display: none;
