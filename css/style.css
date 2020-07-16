@@ -9,6 +9,23 @@ body {
 * {
   box-sizing: border-box;
 }
+.overlay {
+  position: absolute;
+  bottom: 0;
+  background: rgb(0, 0, 0);
+  background: rgba(0, 0, 0, 0.5); /* Black see-through */
+  color: #f1f1f1;
+  width: 100%;
+  transition: 0.5s ease;
+  opacity: 0;
+  color: white;
+  font-size: 20px;
+  padding: 20px;
+  text-align: center;
+}
+.modal .overlay {
+  opacity: 1;
+}
 .vk-footer-style-1 {
   background-image: url("../images/background/footer.jpg");
   text-align: center;
@@ -18,7 +35,7 @@ body {
 }
 .column {
   float: left;
-  width: 25%;
+
   padding: 10px;
 }
 
@@ -44,7 +61,7 @@ body {
 }
 .logo-footer img,
 .logo-header img {
-  max-width: 10em;
+  max-width: 6em;
 }
 .vk-portfolio-list .data .hide {
   display: none;
@@ -3732,7 +3749,6 @@ a:focus {
   right: 20px;
 }
 .vk-portfolio-item .vk-background-overlay {
-  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#000000+0,000000+100&0.65+0,0+100;Neutral+Density */
   background: -moz-linear-gradient(
     top,
     rgba(0, 0, 0, 0.65) 0%,
