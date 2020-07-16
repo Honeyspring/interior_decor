@@ -21,7 +21,7 @@
     <link href="plugin/slick/slick.css" rel="stylesheet" />
     <link href="plugin/player/mediaelementplayer.css" rel="stylesheet" />
     <link href="plugin/jquery-ui/jquery-ui.css" rel="stylesheet" />
-
+    <link href="css/gallery.css" rel="stylesheet" />
     <link href="css/style.css" rel="stylesheet" />
     <link href="css/customize.css" rel="stylesheet" />
     <script src="plugin/modernizr.js"></script>
@@ -91,215 +91,109 @@
 
                     <!-- Grid row -->
 
-                    <div class="row">
-                        <div class="vk-portfolio-list" data-layout="masonry">
 
-
-                            <div class="col-md-3 data image living-room" data-filter="data image living-room" data-layout="masonry-item">
-                                <div class="vk-portfolio-item">
-                                    <div class="vk-background-overlay"></div>
-                                    <h3 class="vk-title">Living <span>room</span></h3>
-                                    <img src="images/portfolio/masonry/27.jpg" alt="" />
-                                </div>
-                            </div>
-                            <div class="col-md-3 data image office" data-filter="data image office" data-layout="masonry-item">
-                                <div class="vk-portfolio-item">
-
-                                    <div class="vk-background-overlay"></div>
-
-                                    <h3 class="vk-title">Office</h3>
-                                    <img src="images/portfolio/masonry/17.jpg" alt="" />
-                                </div>
-                            </div>
-                            <div class="col-md-3 data image bathroom" data-filter="data image bathroom" data-layout="masonry-item">
-                                <div class="vk-portfolio-item">
-                                    <div class="vk-background-overlay"></div>
-
-                                    <h3 class="vk-title">Bathroom</h3>
-                                    <img src="images/portfolio/masonry/18.jpg" alt="" />
-                                </div>
-                            </div>
-
-                            <div class="col-md-3 data  bed-room" data-filter="data  bed-room" data-layout="masonry-item">
-                                <div class="vk-portfolio-item">
-                                    <div class="vk-background-overlay"></div>
-                                    <h3 class="vk-title">Bed <span>room</span></h3>
-                                    <img src="images/portfolio/masonry/2.jpg" alt="" />
-                                </div>
-                            </div>
-                            <div class="col-md-3 data image office" data-filter="data image office" data-layout="masonry-item">
-                                <div class="vk-portfolio-item">
-
-                                    <div class="vk-background-overlay"></div>
-
-                                    <h3 class="vk-title">Office</h3>
-                                    <img src="images/portfolio/masonry/24.jpg" alt="" />
-                                </div>
-                            </div>
-                            <div class="col-md-3 data kitchen" data-filter="data  kitchen" data-layout="masonry-item">
-                                <div class="vk-portfolio-item">
-                                    <div class="vk-background-overlay"></div>
-
-                                    <h3 class="vk-title">Kitchen</h3>
-                                    <img src="images/portfolio/masonry/15.jpg" alt="" />
-                                </div>
-                            </div>
-
-                            <div class="col-md-3 data  bed-room" data-filter="data  bed-room" data-layout="masonry-item">
-                                <div class="vk-portfolio-item">
-                                    <div class="vk-background-overlay"></div>
-                                    <h3 class="vk-title">Bed <span>room</span></h3>
-                                    <img src="images/portfolio/masonry/7.jpg" alt="" />
-                                </div>
-                            </div>
-                            <div class="col-md-3 data image living-room" data-filter="data image living-room" data-layout="masonry-item">
-                                <div class="vk-portfolio-item">
-                                    <div class="vk-background-overlay"></div>
-                                    <h3 class="vk-title">Living <span>room</span></h3>
-                                    <img src="images/portfolio/masonry/26.jpg" alt="" />
-                                </div>
-                            </div>
-                            <div class="col-md-3 data image office" data-filter="data image office" data-layout="masonry-item">
-                                <div class="vk-portfolio-item">
-
-                                    <div class="vk-background-overlay"></div>
-
-                                    <h3 class="vk-title">Office</h3>
-                                    <img src="images/portfolio/masonry/12.jpg" alt="" />
-                                </div>
-                            </div>
-                            <div class="col-md-3 data  bed-room" data-filter="data  bed-room" data-layout="masonry-item">
-                                <div class="vk-portfolio-item">
-                                    <div class="vk-background-overlay"></div>
-                                    <h3 class="vk-title">Bed <span>room</span></h3>
-                                    <img src="images/portfolio/masonry/16.jpg" alt="" />
-                                </div>
-                            </div>
-                            <div class="col-md-3 data kitchen" data-filter="data  kitchen" data-layout="masonry-item">
-                                <div class="vk-portfolio-item">
-                                    <div class="vk-background-overlay"></div>
-
-                                    <h3 class="vk-title">Kitchen</h3>
-                                    <img src="images/portfolio/masonry/21.jpg" alt="" />
-                                </div>
-                            </div>
-
-
-                            <div class="col-md-3 data image living-room" data-filter="data image living-room" data-layout="masonry-item">
-                                <div class="vk-portfolio-item">
-                                    <div class="vk-background-overlay"></div>
-                                    <h3 class="vk-title">Living <span>room</span></h3>
-                                    <img src="images/portfolio/masonry/1.jpg" alt="" />
-                                </div>
-                            </div>
-
-                            <div class="col-md-3 data image office" data-filter="data image office" data-layout="masonry-item">
-                                <div class="vk-portfolio-item">
-
-                                    <div class="vk-background-overlay"></div>
-
-                                    <h3 class="vk-title">Office</h3>
-                                    <img src="images/portfolio/masonry/9.jpg" alt="" />
-                                </div>
-                            </div>
-                            <div class="col-md-3 data  bed-room" data-filter="data  bed-room" data-layout="masonry-item">
-                                <div class="vk-portfolio-item">
-                                    <div class="vk-background-overlay"></div>
-                                    <h3 class="vk-title">Bed <span>room</span></h3>
-                                    <img src="images/portfolio/masonry/8.jpg" alt="" />
-                                </div>
-                            </div>
-                            <div class="col-md-3 data image living-room" data-filter="data image living-room" data-layout="masonry-item">
-                                <div class="vk-portfolio-item">
-                                    <div class="vk-background-overlay"></div>
-                                    <h3 class="vk-title">Living <span>room</span></h3>
-                                    <img src="images/portfolio/masonry/20.jpg" alt="" />
-                                </div>
-                            </div>
-                            <div class="col-md-3 data  bed-room" data-filter="data  bed-room" data-layout="masonry-item">
-                                <div class="vk-portfolio-item">
-                                    <div class="vk-background-overlay"></div>
-                                    <h3 class="vk-title">Bed <span>room</span></h3>
-                                    <img src="images/portfolio/masonry/4.jpg" alt="" />
-                                </div>
-                            </div>
-
-                            <div class="col-md-3 data image living-room" data-filter="data image living-room" data-layout="masonry-item">
-                                <div class="vk-portfolio-item">
-                                    <div class="vk-background-overlay"></div>
-                                    <h3 class="vk-title">Living <span>room</span></h3>
-                                    <img src="images/portfolio/masonry/10.jpg" alt="" />
-                                </div>
-                            </div>
-
-                            <div class="col-md-3 data image office" data-filter="data image office" data-layout="masonry-item">
-                                <div class="vk-portfolio-item">
-
-                                    <div class="vk-background-overlay"></div>
-
-                                    <h3 class="vk-title">Office</h3>
-                                    <img src="images/portfolio/masonry/23.jpg" alt="" />
-                                </div>
-                            </div>
-
-                            <div class="col-md-3 data image living-room" data-filter="data image living-room" data-layout="masonry-item">
-                                <div class="vk-portfolio-item">
-                                    <div class="vk-background-overlay"></div>
-                                    <h3 class="vk-title">Living <span>room</span></h3>
-                                    <img src="images/portfolio/masonry/19.jpg" alt="" />
-                                </div>
-                            </div>
-                            <div class="col-md-3 data  kitchen" data-filter="data  kitchen" data-layout="masonry-item">
-                                <div class="vk-portfolio-item">
-                                    <div class="vk-background-overlay"></div>
-
-                                    <h3 class="vk-title">Kitchen</h3>
-                                    <img src="images/portfolio/masonry/14.jpg" alt="" />
-                                </div>
-                            </div>
-                            <div class="col-md-3 data image living-room" data-filter="data image living-room" data-layout="masonry-item">
-                                <div class="vk-portfolio-item">
-                                    <div class="vk-background-overlay"></div>
-                                    <h3 class="vk-title">Living <span>room</span></h3>
-                                    <img src="images/portfolio/masonry/25.jpg" alt="" />
-                                </div>
-                            </div>
-
+                    <!-- The four columns -->
+                    <div class="row" data-layout="masonry">
+                        <div class="col-md-3  col-xs-6 column data image bed-room" data-filter="data image bed-room" data-layout="masonry-item">
+                            <img src="images/portfolio/masonry/1.jpg" alt="Living Room" style="width:100%" onclick="modals(this);">
                         </div>
-                        <!--./vk-portfolio-list-->
+                        <div class="col-md-3  col-xs-6 column data image bed-room" data-filter="data image bed-room" data-layout="masonry-item">
+                            <img src="images/portfolio/masonry/2.jpg" alt="Bed Room" style="width:100%" onclick="modals(this);">
+                        </div>
+                        <div class="col-md-3  col-xs-6 column data image office" data-filter="data image office" data-layout="masonry-item">
+                            <img src="images/portfolio/masonry/3.jpg" alt="Office" style="width:100%" onclick="modals(this);">
+                        </div>
+                        <div class="col-md-3  col-xs-6 column data image living-room" data-filter="data image living-room" data-layout="masonry-item">
+                            <img src="images/portfolio/masonry/4.jpg" alt="Living Room" style="width:100%" onclick="modals(this);">
+                        </div>
+
+
+                        <div class="col-md-3  col-xs-6 column data image living-room" data-filter="data image living-room" data-layout="masonry-item">
+                            <img src="images/portfolio/masonry/6.jpg" alt="Living Room" style="width:100%" onclick="modals(this);">
+                        </div>
+                        <div class="col-md-3  col-xs-6 column data image bed-room" data-filter="data image bed-room" data-layout="masonry-item">
+                            <img src="images/portfolio/masonry/7.jpg" alt="Bed Room" style="width:100%" onclick="modals(this);">
+                        </div>
+                        <div class="col-md-3  col-xs-6 column data image bed-room" data-filter="data image bed-room" data-layout="masonry-item">
+                            <img src="images/portfolio/masonry/8.jpg" alt="Bed Room" style="width:100%" onclick="modals(this);">
+                        </div>
+                        <div class="col-md-3  col-xs-6 column data image living-room" data-filter="data image living-room" data-layout="masonry-item">
+                            <img src="images/portfolio/masonry/9.jpg" alt="Living Room" style="width:100%" onclick="modals(this);">
+                        </div>
+                        <div class="col-md-3  col-xs-6 column data image living-room" data-filter="data image living-room" data-layout="masonry-item">
+                            <img src="images/portfolio/masonry/10.jpg" alt="Living Room" style="width:100%" onclick="modals(this);">
+                        </div>
+
+                        <div class="col-md-3  col-xs-6 column data image office" data-filter="data image office" data-layout="masonry-item">
+                            <img src="images/portfolio/masonry/12.jpg" alt="office" style="width:100%" onclick="modals(this);">
+                        </div>
+                        <div class="col-md-3  col-xs-6 column data image bath-room" data-filter="data image bath-room" data-layout="masonry-item">
+                            <img src="images/portfolio/masonry/13.jpg" alt="Bathroom" style="width:100%" onclick="modals(this);">
+                        </div>
+                        <div class="col-md-3  col-xs-6 column data image kitchen" data-filter="data image kitchen" data-layout="masonry-item">
+                            <img src="images/portfolio/masonry/14.jpg" alt="Kitchen" style="width:100%" onclick="modals(this);">
+                        </div>
+                        <div class="col-md-3  col-xs-6 column data image kitchen" data-filter="data image kitchen" data-layout="masonry-item">
+                            <img src="images/portfolio/masonry/15.jpg" alt="Kitchen" style="width:100%" onclick="modals(this);">
+                        </div>
+                        <div class="col-md-3  col-xs-6 column data image office" data-filter="data image office" data-layout="masonry-item">
+                            <img src="images/portfolio/masonry/16.jpg" alt="Office" style="width:100%" onclick="modals(this);">
+                        </div>
+                        <div class="col-md-3  col-xs-6 column data image office" data-filter="data image office" data-layout="masonry-item">
+                            <img src="images/portfolio/masonry/17.jpg" alt="office" style="width:100%" onclick="modals(this);">
+                        </div>
+                        <div class="col-md-3  col-xs-6 column data image bathroom" data-filter="data image living-room" data-layout="masonry-item">
+                            <img src="images/portfolio/masonry/18.jpg" alt="Bathroom" style="width:100%" onclick="modals(this);">
+                        </div>
+                        <div class="col-md-3  col-xs-6 column data image living-room" data-filter="data image living-room" data-layout="masonry-item">
+                            <img src="images/portfolio/masonry/19.jpg" alt="Living Room" style="width:100%" onclick="modals(this);">
+                        </div>
+                        <div class="col-md-3  col-xs-6 column data image living-room" data-filter="data image kitchen" data-layout="masonry-item">
+                            <img src="images/portfolio/masonry/20.jpg" alt="Living Room" style="width:100%" onclick="modals(this);">
+                        </div>
+                        <div class="col-md-3  col-xs-6 column data image kitchen" data-filter="data image office" data-layout="masonry-item">
+                            <img src="images/portfolio/masonry/21.jpg" alt="Kitchen" style="width:100%" onclick="modals(this);">
+                        </div>
+                        <div class="col-md-3  col-xs-6 column data image office" data-filter="data image office" data-layout="masonry-item">
+                            <img src="images/portfolio/masonry/23.jpg" alt="Office" style="width:100%" onclick="modals(this);">
+                        </div>
+                        <div class="col-md-3  col-xs-6 column data image office" data-filter="data image office" data-layout="masonry-item">
+                            <img src="images/portfolio/masonry/25.jpg" alt="Living Room" style="width:100%" onclick="modals(this);">
+                        </div>
+                        <div class="col-md-3  col-xs-6 column data image living-room" data-filter="data image living-room" data-layout="masonry-item">
+                            <img src="images/portfolio/masonry/26.jpg" alt="Living Room" style="width:100%" onclick="modals(this);">
+                        </div>
+                        <div class="col-md-3  col-xs-6 column data image living-room" data-filter="data image living-room" data-layout="masonry-item">
+                            <img src="images/portfolio/masonry/27.jpg" alt="Mountains" style="width:100%" onclick="modals(this);">
+                        </div>
+                        <div class="col-md-3  col-xs-6 column data image office" data-filter="data image office" data-layout="masonry-item">
+                            <img src="images/portfolio/masonry/24.jpg" alt="Lights" style="width:100%" onclick="modals(this);">
+                        </div>
                     </div>
-                    <!--/row-->
-                    <div class="box-pagination">
-                        <nav aria-label="pagination">
-                            <ul class="pagination vk-pagination">
-                                <li class="prev btn disabled" aria-label="Prev" onclick="prevPage()">
-                                    <i class="vk-icon fa fa-long-arrow-left"></i>
-                                </li>
 
+                    <div class="modal" id="modal">
+                        <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
+                        <div class="modal-content ">
+                            <img id="expandedImg" style="width:100%">
 
-                                <li class="btn page-num"></li>
+                            <div class="overlay" id="imgtext"></div>
+                        </div>
 
-                                <li class="btn next" aria-label="Next" onclick="nextPage()">
-                                    <i class="vk-icon fa fa-long-arrow-right btn"></i>
-                                </li>
-                            </ul>
-
-
-                        </nav>
                     </div>
-                    <!--./box-pagination-->
 
                 </div>
-                <!--./container-->
-            </div>
-            <!--./vk-page-->
-        </section>
-        <!--./content-->
 
-        <footer class="vk-footer vk-footer-style-1" id="footer">
-            <?php include('./footer.html') ?>
-        </footer>
-        <!--./vk-footer-->
+            </div>
+            <!--./container-->
+    </div>
+    <!--./vk-page-->
+    </section>
+    <!--./content-->
+
+    <footer class="vk-footer vk-footer-style-1" id="footer">
+        <?php include('./footer.html') ?>
+    </footer>
+    <!--./vk-footer-->
     </div>
     <!--./main-wrapper-->
 
