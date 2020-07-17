@@ -170,7 +170,7 @@
                                             </p>
                                         </div>
 
-                                        <a href="2.1-about-page.html" class="vk-btn vk-btn-view-project">READ MORE &nbsp;<i class="fa fa-long-arrow-right"></i></a>
+                                        <a href="about.php" class="vk-btn vk-btn-view-project">READ MORE &nbsp;<i class="fa fa-long-arrow-right"></i></a>
                                     </div>
                                     <!--./inner-wrapper-->
                                 </div>

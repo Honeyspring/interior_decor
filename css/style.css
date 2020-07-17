@@ -1596,6 +1596,7 @@ a:focus {
   }
 }
 .vk-banner .page-heading {
+  margin-top: 3em;
   font-size: 36px;
   font-weight: bold;
   text-transform: capitalize;
@@ -4349,7 +4350,25 @@ a:focus {
 .vk-header-fixed {
   position: fixed;
 }
-
+@media (max-width: 600px) {
+  .logo-header img {
+    max-width: 130px;
+  }
+  .vk-header-transparent {
+    position: relative;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 10;
+    color: #333;
+  }
+  .vk-header-transparent .vk-navbar-child {
+    color: #434343;
+  }
+  .vk-header-transparent .vk-btn-navbar-toggle .icon-bar {
+    background-color: #333;
+  }
+}
 @media (min-width: 992px) {
   .vk-header-left-menu {
     overflow: hidden;
