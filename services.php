@@ -45,9 +45,9 @@
 
                         <div class="vk-breadcrumb">
                             <ul class="">
-                                <li><a href="index.html">home</a></li>
+                                <li><a href="index.php">home</a></li>
 
-                                <li class="active"><a href="services.html">Services</a></li>
+                                <li class="active">Services</li>
                             </ul>
                         </div>
                         <!--./vk-breadcrumb-->
