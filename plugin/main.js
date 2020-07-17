@@ -787,7 +787,7 @@ var CustomTheme = function () {
 jQuery(document).ready(function ($) {
     "use strict";
     /*Jquery validate form contact*/
-    $('#contactform').submit(function () {
+    /*$('#contactform').submit(function () {
         var action = $(this).attr('action');
 
         $("#message-contact").slideUp(750, function () {
@@ -818,7 +818,7 @@ jQuery(document).ready(function ($) {
 
         });
         return false;
-    });
+    });*/
     /*form-newsletter*/
     $('form.form-newsletter').submit(function (e) {
 
