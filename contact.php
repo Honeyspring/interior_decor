@@ -98,7 +98,6 @@
                         </div>
                         <!--./vk-about-list-->
 
-
                         <div class="vk-contact-form vk-form vk-section-distance-top responsive-fix-2">
                             <h6 class="vk-heading vk-heading-form vk-heading-style-3 text-center">SEND TO US AN EMAIL</h6>
                             <div class="row">
@@ -119,7 +118,7 @@
                                         <input id="message_contact" name="message" type="text" class="form-control" placeholder="Message" required>
                                     </div>
                                     <div class="col-md-4 col-lg-offset-4">
-                                        <div class="vertical-content mb-4 g-recaptcha" data-sitekey="6LeONGEUAAAAADTYEZQng4KrpP6B5GxO8Ek4WoGR" required>&nbsp;</div>
+                                        <div class="vertical-content mb-4 g-recaptcha" data-sitekey="6LfdXLMZAAAAAFddUA-X73ROuYOkxQi-aP9ydTcB" required>&nbsp;</div>
                                     </div>
                                     <div class="col-md-12 text-center">
                                         <button type="submit" class="vk-btn">Send</button>
