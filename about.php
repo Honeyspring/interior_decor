@@ -37,7 +37,7 @@
 
         <section class="vk-content">
             <div class="vk-banner vk-background-image-3">
-                <div class="vk-background-overlay vk-background-black _60"></div>
+                <div class="vk-background-overlay vk-background-black _70"></div>
                 <div class="container">
                     <div class="vk-banner-wrapper">
                         <div class="page-heading text-center">

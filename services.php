@@ -36,10 +36,10 @@
 
         <section class="vk-content">
             <div class="vk-banner vk-background-image-3">
-                <div class="vk-background-overlay vk-background-black _60"></div>
+                <div class="vk-background-overlay vk-background-black _90"></div>
                 <div class="container">
                     <div class="vk-banner-wrapper">
-                        <div class="page-heading text-center">
+                        <div class="page-heading text-lg-center ">
                             services
                         </div>
 
@@ -226,7 +226,7 @@
                                             </p>
                                         </div>
                                         <div class="vk-buttons">
-                                            <a href="portfolio.php" vk-btn vk-btn-view-project">VIEW PREOJECTS</a>
+                                            <a href="portfolio.php" class=" vk-btn vk-btn-view-project">VIEW PREOJECTS</a>
                                         </div>
                                     </div>
                                     <!--./inner-wrapper-->
