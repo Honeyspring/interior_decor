@@ -4073,7 +4073,7 @@ city .vk-text-capitalize {
 }
 @media (min-width: 992px) {
   .vk-form .vk-btn {
-    margin-top: 20px;
+    margin-bottom: 20px;
     width: auto;
   }
 }
