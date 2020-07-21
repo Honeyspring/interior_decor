@@ -26,6 +26,19 @@ body {
 .modal .overlay {
   opacity: 1;
 }
+footer p,
+.menu a {
+  color: #ffff;
+}
+.menu a {
+  font-size: 1em;
+}
+.fa-facebook,
+.fa-whatsapp,
+.fa-instagram {
+  font-size: 2em;
+  color: #ffff;
+}
 .vk-footer-style-1 {
   background-image: url("../images/background/footer.jpg");
   text-align: center;
@@ -60,7 +73,7 @@ body {
 }
 .logo-footer img,
 .logo-header img {
-  max-width: 163px;
+  max-width: 100px;
 }
 .vk-portfolio-list .data .hide {
   display: none;
@@ -86,7 +99,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: #574742;
+  color: #654321 ;
   font-weight: bold;
   margin-top: 0;
 }
@@ -137,12 +150,12 @@ ul ul {
 }
 
 ::-moz-selection {
-  background-color: #574742;
+  background-color: #654321 ;
   color: #fff;
 }
 
 ::selection {
-  background-color: #574742;
+  background-color: #654321 ;
   color: #fff;
 }
 
@@ -182,12 +195,12 @@ a:focus {
   }
 }
 #scrollUp.inverse {
-  background-color: #574742;
+  background-color: #654321 ;
   color: #a78317;
 }
 #scrollUp:hover {
   opacity: 1;
-  background-color: #574742;
+  background-color: #654321 ;
   color: #a78317;
 }
 
@@ -939,8 +952,7 @@ a:focus {
 .vk-list-style-2 li:hover:before {
   color: #a78317;
 }
-
-.vk-text-capitalize {
+city .vk-text-capitalize {
   text-transform: capitalize;
 }
 
@@ -997,7 +1009,7 @@ a:focus {
 }
 
 .proj img {
-  min-height: 20em;
+  height: 15em;
 }
 .vk-text-color-yellow-1 {
   color: #a78317;
@@ -1098,7 +1110,7 @@ a:focus {
 }
 
 .vk-background-yellow-1 {
-  background-color: #574742;
+  background-color: #654321 ;
 }
 
 .vk-background-green-1 {
@@ -1263,7 +1275,7 @@ a:focus {
   border-radius: 0;
 }
 .form-control:focus {
-  border-color: #574742;
+  border-color: #654321 ;
   -webkit-box-shadow: none;
   -moz-box-shadow: none;
   box-shadow: none;
@@ -1774,7 +1786,7 @@ a:focus {
 }
 .vk-grid-style-item .vk-image:after {
   content: "";
-  border: 10px solid #574742;
+  border: 10px solid #654321 ;
   position: absolute;
   left: 50px;
   top: 0;
@@ -1954,7 +1966,7 @@ a:focus {
   left: auto !important;
   width: 50px;
   height: 50px;
-  background-color: #574742;
+  background-color: #654321 ;
   color: #fff !important;
   display: -webkit-box;
   display: -webkit-flex;
@@ -2123,7 +2135,7 @@ a:focus {
   height: 1px;
   width: 100%;
   position: absolute;
-  background-color: #574742;
+  background-color: #654321 ;
   bottom: 0;
   left: 0;
 }
@@ -2228,7 +2240,7 @@ a:focus {
   margin-right: 0;
 }
 .mejs-container .mejs-controls .mejs-time-rail .mejs-time-current {
-  background: #574742;
+  background: #654321 ;
 }
 .mejs-container .mejs-controls .mejs-time-rail .mejs-time-loaded {
   background: #fff;
@@ -2447,7 +2459,7 @@ a:focus {
   .mejs-volume-button
   .mejs-volume-slider
   .mejs-volume-current {
-  background: #574742;
+  background: #654321 ;
 }
 .mejs-container.mejs-video
   .mejs-controls
@@ -2455,7 +2467,7 @@ a:focus {
   .mejs-volume-slider
   .mejs-volume-handle {
   cursor: pointer;
-  background: #574742;
+  background: #654321 ;
 }
 
 .mejs-container.mejs-video .mejs-controls .mejs-duration-container {
@@ -2557,18 +2569,18 @@ a:focus {
 }
 
 .vk-alert-warning.vk-alert-flat {
-  background-color: #574742;
+  background-color: #654321 ;
 }
 
 .vk-alert-warning.vk-alert-border {
-  border-color: #574742;
+  border-color: #654321 ;
   color: #434343;
 }
 .vk-alert-warning.vk-alert-border .vk-icon {
-  background-color: #574742;
+  background-color: #654321 ;
 }
 .vk-alert-warning.vk-alert-border a {
-  color: #574742;
+  color: #654321 ;
 }
 
 .vk-alert-danger.vk-alert-flat {
@@ -2643,17 +2655,17 @@ a:focus {
   -webkit-box-shadow: inset 0 -3px 0 #cc9a00;
   -moz-box-shadow: inset 0 -3px 0 #cc9a00;
   box-shadow: inset 0 -3px 0 #cc9a00;
-  background-color: #574742;
+  background-color: #654321 ;
 }
 
 .vk-btn-border {
   background-color: transparent;
-  color: #574742;
-  border-color: #574742;
+  color: #654321 ;
+  border-color: #654321 ;
 }
 .vk-btn-border:hover,
 .vk-btn-border:focus {
-  background-color: #574742;
+  background-color: #654321 ;
   color: #fff;
 }
 
@@ -2680,7 +2692,7 @@ a:focus {
   -ms-flex-pack: center;
   justify-content: center;
   color: #fff;
-  background-color: #574742;
+  background-color: #654321 ;
 }
 
 .vk-btn-shape-round {
@@ -2772,11 +2784,11 @@ a:focus {
 
 .vk-tab-style-1 .nav-tabs > li > a:hover,
 .vk-tab-style-1 .nav-tabs > li > a:focus {
-  border-color: #574742;
+  border-color: #654321 ;
 }
 
 .vk-tab-style-1 .nav-tabs > li.active > a {
-  color: #574742;
+  color: #654321 ;
   border-color: #a78317;
 }
 
@@ -2861,8 +2873,8 @@ a:focus {
   justify-content: center;
   width: 100px;
   height: 100px;
-  border: 2px solid #574742;
-  color: #574742;
+  border: 2px solid #654321 ;
+  color: #654321 ;
   border-radius: 50%;
   margin-bottom: 3px;
 }
@@ -3438,7 +3450,7 @@ a:focus {
   background-color: #d7d7d7;
 }
 .vk-blockquote .highlight {
-  color: #574742;
+  color: #654321 ;
   font-size: 14px;
   font-weight: bold;
 }
@@ -3561,7 +3573,7 @@ a:focus {
   cursor: pointer;
 }
 .vk-testimonial-item-1 .vk-img-frame:hover {
-  background-color: #574742;
+  background-color: #654321 ;
 }
 .vk-testimonial-item-1 .vk-img-frame img {
   -webkit-border-radius: 50%;
@@ -3572,7 +3584,7 @@ a:focus {
   margin-left: 10px;
 }
 .vk-testimonial-item-1.slick-current .vk-img-frame {
-  background-color: #574742;
+  background-color: #654321 ;
 }
 
 .vk-testimonial-item-2 {
@@ -3686,7 +3698,7 @@ a:focus {
 }
 .vk-list-filter li.active,
 .vk-list-filter li:hover {
-  color: #574742;
+  color: #654321 ;
 }
 
 .vk-filtter-dropdown {
@@ -3784,7 +3796,7 @@ a:focus {
   transition: all 0.3s ease-in-out;
 }
 .vk-portfolio-item:hover {
-  border-color: #574742;
+  border-color: #654321 ;
 }
 .vk-portfolio-item:hover .vk-title {
   opacity: 1;
@@ -3942,7 +3954,7 @@ a:focus {
 .vk-btn-readmore:hover,
 .vk-btn-readmore:focus {
   background-color: transparent;
-  color: #574742;
+  color: #654321 ;
   text-decoration: underline;
 }
 
@@ -4051,7 +4063,7 @@ a:focus {
   background-color: transparent;
 }
 .vk-form .form-control:focus {
-  border-color: #574742;
+  border-color: #654321 ;
 }
 
 .vk-form .vk-btn {
@@ -4100,7 +4112,7 @@ a:focus {
   margin-bottom: 10px;
 }
 .vk-comment .comment .vk-btn-reply {
-  color: #574742;
+  color: #654321 ;
   font-weight: 600;
   margin-top: -5px;
 }
@@ -4352,7 +4364,22 @@ a:focus {
 }
 @media (max-width: 600px) {
   .logo-header img {
-    max-width: 130px;
+    max-width: 80px;
+  }
+  .vk-header-transparent {
+    position: relative;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 10;
+    color: #333;
+  }
+  .vk-header-transparent .vk-navbar-child {
+    color: #434343;
+  }
+  .vk-header-transparent .vk-btn-navbar-toggle .icon-bar {
+    background-color: rgb(160, 155, 155);
+    color: #333;
   }
 }
 @media (min-width: 992px) {
@@ -4598,7 +4625,7 @@ a:focus {
 }
 .vk-home.dark .vk-home-portfolio .vk-slider-arrow-style-1 .vk-arrow:hover,
 .vk-home.dark .vk-home-portfolio .vk-slider-arrow-style-1 .vk-arrow:focus {
-  color: #574742;
+  color: #654321 ;
   background-color: transparent;
 }
 .vk-home.dark .vk-home-portfolio .vk-heading-box {
@@ -4610,7 +4637,7 @@ a:focus {
 }
 .vk-home-slider-item .vk-img-frame img {
   width: auto;
-  height: 640px;
+ height: 640px;
 }
 @media (min-width: 992px) {
   .vk-home-slider-item .vk-img-frame img {
@@ -4791,7 +4818,7 @@ a:focus {
   content: "";
   width: 100%;
   height: 100%;
-  border: solid 2px #574742;
+  border: solid 2px #654321 ;
   display: block;
 }
 .vk-heading-line .line-top:after,
@@ -4842,18 +4869,18 @@ a:focus {
 }
 .vk-grid-style-2-item .vk-btn {
   margin-top: 15px;
-  color: #434343;
+  color: #a78317;
   background-color: transparent;
-  border-color: #434343;
+  border-color: #a78317;
 }
 @media (min-width: 992px) {
   .vk-grid-style-2-item .vk-btn {
     margin-top: 50px;
-  }
+  }#654321
 }
 .vk-grid-style-2-item .vk-btn:hover,
 .vk-grid-style-2-item .vk-btn:focus {
-  background-color: #434343;
+  background-color: #a78317;
   color: #fff;
 }
 @media (min-width: 992px) {
@@ -4965,15 +4992,15 @@ a:focus {
 }
 
 .vk-list-service .vk-icon {
-  width: 60px;
-  height: 60px;
+  width: 40px;
+  height: 40px;
   position: absolute;
   left: 0;
 }
 @media (min-width: 992px) {
   .vk-list-service .vk-icon {
-    width: 100px;
-    height: 100px;
+    width: 50px;
+    height: 50px;
   }
 }
 
@@ -5015,7 +5042,7 @@ a:focus {
 .vk-list-project .vk-list-project-item .vk-sub-title {
   font-size: 13px;
   font-weight: bold;
-  color: #574742;
+  color: #654321 ;
   margin-bottom: 35px;
 }
 .vk-list-project .vk-list-project-item .vk-img-frame {
@@ -5358,7 +5385,7 @@ a:focus {
 .vk-home-shop-category-item .vk-btn:hover .vk-icon,
 .vk-home-shop-category-item .vk-btn:focus .vk-text,
 .vk-home-shop-category-item .vk-btn:focus .vk-icon {
-  color: #574742;
+  color: #654321 ;
 }
 .vk-home-shop-category-item:hover img {
   -webkit-transform: scale(1.1);
@@ -5404,7 +5431,7 @@ a:focus {
   right: 50%;
   bottom: 0;
   position: absolute;
-  background-color: #574742;
+  background-color: #654321 ;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
   -o-transition: all 0.3s ease-in-out;
@@ -5460,7 +5487,7 @@ a:focus {
   margin-bottom: 15px;
 }
 .vk-home-shop-item .vk-rate {
-  color: #574742;
+  color: #654321 ;
   font-size: 12px;
   margin-bottom: 20px;
 }
@@ -5591,7 +5618,7 @@ a:focus {
 .vk-home-shop-count-down .vk-title-top {
   font-size: 24px;
   font-weight: 800;
-  color: #574742;
+  color: #654321 ;
   margin-bottom: 10px;
 }
 
@@ -5720,7 +5747,7 @@ a:focus {
   margin-bottom: 0;
 }
 .vk-home-shop-subcribe .vk-form-subcribe .form-control:focus {
-  border-color: #574742;
+  border-color: #654321 ;
 }
 .vk-home-shop-subcribe .vk-form-subcribe .vk-btn-submit {
   font-size: 12px;
@@ -5738,7 +5765,7 @@ a:focus {
 }
 .vk-home-shop-subcribe .vk-form-subcribe .vk-btn-submit:hover,
 .vk-home-shop-subcribe .vk-form-subcribe .vk-btn-submit:focus {
-  color: #574742;
+  color: #654321 ;
 }
 
 .vk-home.shop {
@@ -5999,7 +6026,7 @@ a:focus {
   .vk-home-onepage-service
   .vk-slider-arrow-style-1
   .vk-arrow:focus {
-  color: #574742;
+  color: #654321 ;
 }
 
 .vk-home.onepage .vk-home-portfolio {
@@ -6018,7 +6045,7 @@ a:focus {
 }
 .vk-home.onepage .vk-home-portfolio .vk-slider-arrow-style-1 .vk-arrow:hover,
 .vk-home.onepage .vk-home-portfolio .vk-slider-arrow-style-1 .vk-arrow:focus {
-  color: #574742;
+  color: #654321 ;
 }
 .vk-home.onepage .vk-home-portfolio .vk-home-inner-wrapper {
   position: relative;
@@ -6041,7 +6068,7 @@ a:focus {
 }
 .vk-home.onepage .vk-home-testimonial .vk-slider-arrow-style-1 .vk-arrow:hover,
 .vk-home.onepage .vk-home-testimonial .vk-slider-arrow-style-1 .vk-arrow:focus {
-  color: #574742;
+  color: #654321 ;
 }
 
 .vk-home.onepage .vk-home-onepage-contact {
@@ -6130,7 +6157,7 @@ a:focus {
   color: #999999;
 }
 .vk-home.onepage .vk-form .form-control:focus {
-  border-color: #574742;
+  border-color: #654321 ;
 }
 
 .vk-home.onepage .vk-section {
@@ -6289,7 +6316,7 @@ a:focus {
 }
 .vk-home.left-menu .vk-home-portfolio .vk-slider-arrow-style-1 .vk-arrow:hover,
 .vk-home.left-menu .vk-home-portfolio .vk-slider-arrow-style-1 .vk-arrow:focus {
-  color: #574742;
+  color: #654321 ;
 }
 
 .vk-home.left-menu .vk-home-testimonial {
@@ -6346,7 +6373,7 @@ a:focus {
 }
 .vk-home-portfolio-list .vk-btn-view-more:hover,
 .vk-home-portfolio-list .vk-btn-view-more:focus {
-  color: #574742;
+  color: #654321 ;
 }
 
 .vk-home-portfolio-list .vk-button-box {
@@ -6373,7 +6400,7 @@ a:focus {
   color: #fff;
 }
 .vk-page.page-404 .vk-hint a {
-  color: #574742;
+  color: #654321 ;
 }
 .vk-page.page-404 .vk-hint a:hover,
 .vk-page.page-404 .vk-hint afocus {
@@ -6472,7 +6499,7 @@ a:focus {
 }
 .vk-contact-item .vk-icon {
   font-size: 20px;
-  color: #574742;
+  color: #654321 ;
   position: absolute;
   left: 7px;
   top: 5px;
@@ -6552,7 +6579,7 @@ a:focus {
 }
 .vk-project-grid-item .vk-title a:hover,
 .vk-project-grid-item .vk-title a:focus {
-  color: #574742;
+  color: #654321 ;
 }
 .vk-project-grid-item .vk-list-action-post {
   display: -webkit-inline-box;
@@ -6799,7 +6826,7 @@ a:focus {
   left: 0;
 }
 .vk-grid-style-1-item:hover {
-  border-color: #574742;
+  border-color: #654321 ;
 }
 .vk-grid-style-1-item .vk-background-overlay {
   /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#000000+0,000000+100&0.65+0,0+100;Neutral+Density */
@@ -6968,7 +6995,7 @@ a:focus {
 }
 .vk-shop-item .vk-btn-addtocart:hover,
 .vk-shop-item .vk-btn-addtocart:focus {
-  color: #574742;
+  color: #654321 ;
   background-color: transparent;
 }
 
@@ -7134,7 +7161,7 @@ a:focus {
   border: solid 2px #f0f0f0;
 }
 .vk-table-shopcart .form-control:focus {
-  border-color: #574742;
+  border-color: #654321 ;
 }
 .vk-table-shopcart .vk-list-quantity {
   display: inline-block;
@@ -7280,7 +7307,7 @@ a:focus {
   padding-top: 10px;
 }
 .vk-table-shopcart-style-2 .form-control:focus {
-  border-color: #574742;
+  border-color: #654321 ;
 }
 .vk-table-shopcart-style-3 {
   font-weight: normal;
@@ -7372,7 +7399,7 @@ a:focus {
 }
 .vk-table-shopcart-style-4 .table-data-row:last-child {
   font-weight: 600;
-  color: #574742;
+  color: #654321 ;
 }
 .vk-table-shopcart-style-4 .table-data-row.fix {
   color: #434343;
@@ -7391,7 +7418,7 @@ a:focus {
 }
 .vk-table-shopcart-style-5 a:hover,
 .vk-table-shopcart-style-5 a:focus {
-  color: #574742;
+  color: #654321 ;
 }
 .vk-table-shopcart-style-5 .pay {
   padding-bottom: 10px;
@@ -7476,7 +7503,7 @@ a:focus {
   border: solid 2px #f0f0f0;
 }
 .checkout-login .form-control:focus {
-  border-color: #574742;
+  border-color: #654321 ;
 }
 
 .checkout-login .vk-wrapper {
@@ -7626,7 +7653,7 @@ a:focus {
   border: solid 2px #f0f0f0;
 }
 .vk-filler-create-account .form-control:focus {
-  border-color: #574742;
+  border-color: #654321 ;
 }
 
 .vk-shop-checkout-top .vk-alert {
@@ -7746,7 +7773,7 @@ a:focus {
   padding-top: 7px;
 }
 .vk-product-info .vk-rate .fa {
-  color: #574742;
+  color: #654321 ;
 }
 
 .vk-product-info .vk-meta-price-rate {
@@ -7801,7 +7828,7 @@ a:focus {
 }
 .vk-product-info .vk-share ul li a:hover,
 .vk-product-info .vk-share ul li a:focus {
-  border-color: #574742;
+  border-color: #654321 ;
 }
 
 .vk-quantity-calulator {
@@ -7931,7 +7958,7 @@ a:focus {
 }
 .vk-list-tag a:hover,
 .vk-list-tag a:focus {
-  background-color: #574742;
+  background-color: #654321 ;
   color: #fff;
 }
 .vk-list-tag.inverse a {
@@ -7939,7 +7966,7 @@ a:focus {
 }
 .vk-list-tag.inverse a:hover,
 .vk-list-tag.inverse a:focus {
-  background-color: #574742;
+  background-color: #654321 ;
 }
 
 .vk-list-recent-post .vk-title {
@@ -7966,7 +7993,7 @@ a:focus {
   padding-right: 65px;
 }
 .vk-bar-search .search-form .form-control:focus {
-  border-color: #574742;
+  border-color: #654321 ;
 }
 .vk-bar-search .search-form .vk-btn-search {
   position: absolute;
@@ -7997,7 +8024,7 @@ a:focus {
   height: 3px;
 }
 .vk-price-range .ui-widget-header {
-  background-color: #574742;
+  background-color: #654321 ;
   height: 3px;
 }
 .vk-price-range .ui-slider-handle {
@@ -8005,7 +8032,7 @@ a:focus {
   -webkit-border-radius: 0;
   -moz-border-radius: 0;
   border-radius: 0;
-  background-color: #574742;
+  background-color: #654321 ;
   width: 5px;
   height: 15px;
   margin-left: 0;
@@ -8318,7 +8345,7 @@ a:focus {
   margin-top: 10px;
 }
 .form-newsletter .form-error a {
-  color: #574742;
+  color: #654321 ;
 }
 .contactform .form-error {
   color: red;

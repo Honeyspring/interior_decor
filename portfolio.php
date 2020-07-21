@@ -39,8 +39,8 @@
         <!--./vk-header-->
 
         <section class="vk-content ">
-            <div class="vk-banner vk-background-image-1">
-                <div class="vk-background-overlay vk-background-black-1 _60"></div>
+            <div class="vk-banner vk-background-image-2">
+                <div class="vk-background-overlay vk-background-black _90"></div>
                 <div class="container">
                     <div class="vk-banner-wrapper">
                         <div class="page-heading text-center">
