@@ -25,6 +25,7 @@
     <script src="plugin/modernizr.js?"></script>
     <script src="../../vjs.zencdn.net/ie8/1.1.2/videojs-ie8.min.js?"></script>
 
+
 </head>
 
 <body>
@@ -96,7 +97,6 @@
                         </div>
                         <!--./vk-about-list-->
 
-
                         <div class="vk-contact-form vk-form vk-section-distance-top responsive-fix-2">
                             <h6 class="vk-heading vk-heading-form vk-heading-style-3 text-center">SEND TO US AN EMAIL</h6>
                             <div class="row">
@@ -115,6 +115,9 @@
                                     </div>
                                     <div class="col-md-12" id="submitInput">
                                         <input id="message_contact" name="message" type="text" class="form-control" placeholder="Message" required>
+                                    </div>
+                                    <div class="col-md-4 col-lg-offset-4">
+                                        <div class="mb-4 g-recaptcha" data-sitekey="6Ld-obMZAAAAANHWZVPSFLdDH8kwpAxdkyzyG1HO"></div>
                                     </div>
                                     <div class="col-md-12 text-center">
                                         <button type="submit" class="vk-btn">Send</button>
@@ -149,23 +152,36 @@
 
     <script src="plugin/main.js?"></script>
     <script src="plugin/custom.js?"></script>
+    <script src='https://www.google.com/recaptcha/api.js'></script>
     <!-- END: SCRIPT -->
-    <?php
-    if (isset($_COOKIE["result"])){
-        echo ('Set');
-    ?>
-        <script type="text/javascript">
-            $('#submitInput').after('<div style="color: green; text-align: center"><h3 style="color: green;">Form submitted successfully</h3></div>');
-        </script>
-    <?
-    }
-    else{
-    ?>
-       <!-- <script type="text/javascript">
-        $('#submitInput').after('<div style="color: green; text-align: center"><h3 style="color: green;">Form submitted successfully</h3></div>');
-        </script>-->
-    <?php
-    }
-    ?>
+    <?php if(!isset($_COOKIE['result'])) {
+
+    } else {
+        if($_COOKIE['result'] == "The captcha field must be checked"){?>
+            <script type='text/javascript'>
+                alert('The captcha field must be checked');
+                $('#submitInput').after('<div class="mb-4" style="color: red; text-align: center"><h3 style="color: red; text-align: center">The captcha field must be checked</h3></div>');
+            </script>
+        <?php  }
+        elseif ($_COOKIE['result'] == "All field must be filled") {?>
+            <script type='text/javascript'>
+                alert('All field must be filled');
+                $('#submitInput').after('<div class="mb-4" style="color: red; text-align: center"><h3 style="color: red; text-align: center">All field must be filled</h3></div>');
+            </script>
+        <?php }
+        elseif ($_COOKIE['result'] == "Form submitted Successfully") {?>
+            <script type='text/javascript'>
+                alert('Form submitted successfully');
+                $('#submitInput').after('<div class="mb-4" style="color: green; text-align: center"><h3 style="color: green; text-align: center">Form submitted successfully</h3></div>');
+            </script>
+        <?php }
+        else{
+        ?>
+            <script type='text/javascript'>
+                alert('Error Submitting the form');
+                $('#submitInput').after('<div class="mb-4" style="color: red; text-align: center"><h3 style="color: red; text-align: center">Error Submitting the form</h3></div>');
+            </script>
+        <?php }
+    } ?>
 </body>
 </html>
