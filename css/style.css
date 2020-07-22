@@ -4065,6 +4065,9 @@ city .vk-text-capitalize {
 .vk-form .form-control:focus {
   border-color: #654321 ;
 }
+.portfolio{
+  margin:12px 16px;
+}
 
 .vk-form .vk-btn {
   margin-bottom: 10px;

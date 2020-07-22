@@ -51,7 +51,7 @@
                                     <div class="vk-inner-content">
 
                                         <div class="vk-main-heading">
-                                            Every touch sparkles
+                                            Every Touch Sparkles
                                         </div>
                                         <div class="vk-sub-heading">Interior Design</div>
                                     </div>
@@ -73,7 +73,7 @@
                                 <div class="vk-inner-container">
                                     <div class="vk-inner-content">
                                         <div class="vk-main-heading">
-                                            Let us make the differences
+                                            Let Us Make The differences
                                         </div>
                                         <div class="vk-sub-heading">Interior Design</div>
                                     </div>
@@ -95,7 +95,7 @@
                                 <div class="vk-inner-container">
                                     <div class="vk-inner-content">
                                         <div class="vk-main-heading">
-                                            You can bet on us
+                                            You Can Bet On Us
                                         </div>
                                         <div class="vk-sub-heading">Interior Design</div>
                                     </div>
@@ -117,7 +117,7 @@
                                 <div class="vk-inner-container">
                                     <div class="vk-inner-content">
                                         <div class="vk-main-heading">
-                                            We welcome you onboard
+                                            We Welcome You Onboard
                                         </div>
                                         <div class="vk-sub-heading">Interior Design</div>
                                     </div>
@@ -175,7 +175,7 @@
 
                                                 We carefully followed and observed the Tenets of interior design; which we considered very important in all our projects and this has guided us as we take each project from start to finish.
 
-                                                The passion for arranging spaces and creating beautiful accessories pieces that look like the play was becoming an enterprise hence the birth of Bracebrownn design. The journey has been a learning and a
+                                                The passion for arranging spaces and creating beautiful accessories pieces that look like the play was becoming an enterprise hence the birth of Bracebrownn design. The journey has been a learning and a ....
                                             </p>
                                         </div>
                                         <div class="vk-buttons">
@@ -297,242 +297,248 @@
                         </h4>
                     </div>
                     <!--./vk-heading-box-->
-                   
-                        <ul class="vk-list vk-list-project  ">
-                            <li class="col-sm-6 col-md-3 ">
-                                <div class="vk-list-project-item">
-                                    <div class="vk-img-frame proj">
-                                        <img src="images/home/default/1.jpg" alt="" />
-                                    </div>
 
-                                    <div class="vk-hover">
-                                        <div class="wrapper">
-                                            <div class="inner-wrapper">
-                                                <div class="content">
-                                                    <div class="vk-sub-title">kitchen</div>
-                                                    <h4 class="vk-main-title">
-                                                        kitchen's furniture
-                                                    </h4>
-                                                    <div class="vk-list-meta">
-
-                                                    </div>
-                                                    <!--./vk-list-meta-->
-                                                </div>
-                                                <!--./content-->
-                                            </div>
-                                            <!--./inner-wrapper-->
-                                        </div>
-                                        <!--./wrapper-->
-                                    </div>
-                                    <!--./vk-hover-->
+                    <ul class="vk-list vk-list-project  ">
+                        <li class="col-sm-6 col-md-3 ">
+                            <div class="vk-list-project-item">
+                                <div class="vk-img-frame proj">
+                                    <img src="images/home/default/1.jpg" alt="" />
                                 </div>
-                            </li>
 
-                            <li class="col-sm-6 col-md-3 ">
-                                <div class="vk-list-project-item">
-                                    <div class="vk-img-frame proj">
-                                        <img src="images/home/default/2.jpg" alt="" />
-                                    </div>
+                                <div class="vk-hover">
+                                    <div class="wrapper">
+                                        <div class="inner-wrapper">
+                                            <div class="content">
+                                                <div class="vk-sub-title">kitchen</div>
+                                                <h4 class="vk-main-title">
+                                                    kitchen's furniture
+                                                </h4>
+                                                <div class="vk-list-meta">
 
-                                    <div class="vk-hover">
-                                        <div class="wrapper">
-                                            <div class="inner-wrapper">
-                                                <div class="content">
-                                                    <div class="vk-sub-title">bedroom</div>
-                                                    <h4 class="vk-main-title">
-                                                        bedroom's furniture
-                                                    </h4>
-                                                    <div class="vk-list-meta">
-
-                                                    </div>
-                                                    <!--./vk-list-meta-->
                                                 </div>
-                                                <!--./content-->
+                                                <!--./vk-list-meta-->
                                             </div>
-                                            <!--./inner-wrapper-->
+                                            <!--./content-->
                                         </div>
-                                        <!--./wrapper-->
+                                        <!--./inner-wrapper-->
                                     </div>
-                                    <!--./vk-hover-->
+                                    <!--./wrapper-->
                                 </div>
-                            </li>
+                                <!--./vk-hover-->
+                            </div>
+                        </li>
 
-                            <li class="col-sm-6 col-md-3 ">
-                                <div class="vk-list-project-item">
-                                    <div class="vk-img-frame proj">
-                                        <img src="images/home/default/3.jpg" alt="" />
-                                    </div>
+                        <li class="col-sm-6 col-md-3 ">
+                            <div class="vk-list-project-item">
+                                <div class="vk-img-frame proj">
+                                    <img src="images/home/default/2.jpg" alt="" />
+                                </div>
 
-                                    <div class="vk-hover">
-                                        <div class="wrapper">
-                                            <div class="inner-wrapper">
-                                                <div class="content">
-                                                    <div class="vk-sub-title">living room</div>
-                                                    <h4 class="vk-main-title">
-                                                        living room furnite
-                                                    </h4>
-                                                    <div class="vk-list-meta">
+                                <div class="vk-hover">
+                                    <div class="wrapper">
+                                        <div class="inner-wrapper">
+                                            <div class="content">
+                                                <div class="vk-sub-title">bedroom</div>
+                                                <h4 class="vk-main-title">
+                                                    bedroom's furniture
+                                                </h4>
+                                                <div class="vk-list-meta">
 
-                                                    </div>
-                                                    <!--./vk-list-meta-->
                                                 </div>
-                                                <!--./content-->
+                                                <!--./vk-list-meta-->
                                             </div>
-                                            <!--./inner-wrapper-->
+                                            <!--./content-->
                                         </div>
-                                        <!--./wrapper-->
+                                        <!--./inner-wrapper-->
                                     </div>
-                                    <!--./vk-hover-->
+                                    <!--./wrapper-->
                                 </div>
-                            </li>
+                                <!--./vk-hover-->
+                            </div>
+                        </li>
 
-                            <li class="col-sm-6 col-md-3 ">
-                                <div class="vk-list-project-item">
-                                    <div class="vk-img-frame proj">
-                                        <img src="images/home/default/4.jpg" alt="" />
-                                    </div>
+                        <li class="col-sm-6 col-md-3 ">
+                            <div class="vk-list-project-item">
+                                <div class="vk-img-frame proj">
+                                    <img src="images/home/default/3.jpg" alt="" />
+                                </div>
 
-                                    <div class="vk-hover">
-                                        <div class="wrapper">
-                                            <div class="inner-wrapper">
-                                                <div class="content">
-                                                    <div class="vk-sub-title">bedroom</div>
-                                                    <h4 class="vk-main-title">
-                                                        bedroom's furniture
-                                                    </h4>
-                                                    <div class="vk-list-meta">
+                                <div class="vk-hover">
+                                    <div class="wrapper">
+                                        <div class="inner-wrapper">
+                                            <div class="content">
+                                                <div class="vk-sub-title">living room</div>
+                                                <h4 class="vk-main-title">
+                                                    living room furnite
+                                                </h4>
+                                                <div class="vk-list-meta">
 
-                                                    </div>
-                                                    <!--./vk-list-meta-->
                                                 </div>
-                                                <!--./content-->
+                                                <!--./vk-list-meta-->
                                             </div>
-                                            <!--./inner-wrapper-->
+                                            <!--./content-->
                                         </div>
-                                        <!--./wrapper-->
+                                        <!--./inner-wrapper-->
                                     </div>
-                                    <!--./vk-hover-->
+                                    <!--./wrapper-->
                                 </div>
-                            </li>
+                                <!--./vk-hover-->
+                            </div>
+                        </li>
 
-                            <li class="col-sm-6 col-md-3 ">
-                                <div class="vk-list-project-item">
-                                    <div class="vk-img-frame proj">
-                                        <img src="images/home/default/5.jpg" alt="" />
-                                    </div>
+                        <li class="col-sm-6 col-md-3 ">
+                            <div class="vk-list-project-item">
+                                <div class="vk-img-frame proj">
+                                    <img src="images/home/default/4.jpg" alt="" />
+                                </div>
 
-                                    <div class="vk-hover">
-                                        <div class="wrapper">
-                                            <div class="inner-wrapper">
-                                                <div class="content">
-                                                    <div class="vk-sub-title">office</div>
-                                                    <h4 class="vk-main-title">
-                                                        office's furniture
-                                                    </h4>
-                                                    <div class="vk-list-meta">
+                                <div class="vk-hover">
+                                    <div class="wrapper">
+                                        <div class="inner-wrapper">
+                                            <div class="content">
+                                                <div class="vk-sub-title">bedroom</div>
+                                                <h4 class="vk-main-title">
+                                                    bedroom's furniture
+                                                </h4>
+                                                <div class="vk-list-meta">
 
-                                                    </div>
-                                                    <!--./vk-list-meta-->
                                                 </div>
-                                                <!--./content-->
+                                                <!--./vk-list-meta-->
                                             </div>
-                                            <!--./inner-wrapper-->
+                                            <!--./content-->
                                         </div>
-                                        <!--./wrapper-->
+                                        <!--./inner-wrapper-->
                                     </div>
-                                    <!--./vk-hover-->
+                                    <!--./wrapper-->
                                 </div>
-                            </li>
+                                <!--./vk-hover-->
+                            </div>
+                        </li>
 
-                            <li class="col-sm-6 col-md-3 ">
-                                <div class="vk-list-project-item">
-                                    <div class="vk-img-frame proj">
-                                        <img src="images/home/default/6.jpg" alt="" />
-                                    </div>
+                        <li class="col-sm-6 col-md-3 ">
+                            <div class="vk-list-project-item">
+                                <div class="vk-img-frame proj">
+                                    <img src="images/home/default/5.jpg" alt="" />
+                                </div>
 
-                                    <div class="vk-hover">
-                                        <div class="wrapper">
-                                            <div class="inner-wrapper">
-                                                <div class="content">
-                                                    <div class="vk-sub-title">office</div>
-                                                    <h4 class="vk-main-title">
-                                                        office's furniture
-                                                    </h4>
-                                                    <div class="vk-list-meta">
+                                <div class="vk-hover">
+                                    <div class="wrapper">
+                                        <div class="inner-wrapper">
+                                            <div class="content">
+                                                <div class="vk-sub-title">office</div>
+                                                <h4 class="vk-main-title">
+                                                    office's furniture
+                                                </h4>
+                                                <div class="vk-list-meta">
 
-                                                    </div>
-                                                    <!--./vk-list-meta-->
                                                 </div>
-                                                <!--./content-->
+                                                <!--./vk-list-meta-->
                                             </div>
-                                            <!--./inner-wrapper-->
+                                            <!--./content-->
                                         </div>
-                                        <!--./wrapper-->
+                                        <!--./inner-wrapper-->
                                     </div>
-                                    <!--./vk-hover-->
+                                    <!--./wrapper-->
                                 </div>
-                            </li>
+                                <!--./vk-hover-->
+                            </div>
+                        </li>
 
-                            <li class="col-sm-6 col-md-3 ">
-                                <div class="vk-list-project-item">
-                                    <div class="vk-img-frame proj">
-                                        <img src="images/home/default/7.jpg" alt="" />
-                                    </div>
+                        <li class="col-sm-6 col-md-3 ">
+                            <div class="vk-list-project-item">
+                                <div class="vk-img-frame proj">
+                                    <img src="images/home/default/6.jpg" alt="" />
+                                </div>
 
-                                    <div class="vk-hover">
-                                        <div class="wrapper">
-                                            <div class="inner-wrapper">
-                                                <div class="content">
-                                                    <div class="vk-sub-title">bathroom</div>
-                                                    <h4 class="vk-main-title">
-                                                        bathroom's furniture
-                                                    </h4>
-                                                    <div class="vk-list-meta">
+                                <div class="vk-hover">
+                                    <div class="wrapper">
+                                        <div class="inner-wrapper">
+                                            <div class="content">
+                                                <div class="vk-sub-title">office</div>
+                                                <h4 class="vk-main-title">
+                                                    office's furniture
+                                                </h4>
+                                                <div class="vk-list-meta">
 
-                                                    </div>
-                                                    <!--./vk-list-meta-->
                                                 </div>
-                                                <!--./content-->
+                                                <!--./vk-list-meta-->
                                             </div>
-                                            <!--./inner-wrapper-->
+                                            <!--./content-->
                                         </div>
-                                        <!--./wrapper-->
+                                        <!--./inner-wrapper-->
                                     </div>
-                                    <!--./vk-hover-->
+                                    <!--./wrapper-->
                                 </div>
-                            </li>
+                                <!--./vk-hover-->
+                            </div>
+                        </li>
 
-                            <li class="col-sm-6 col-md-3 ">
-                                <div class="vk-list-project-item">
-                                    <div class="vk-img-frame proj">
-                                        <img src="images/home/default/8.jpg" alt="" />
-                                    </div>
+                        <li class="col-sm-6 col-md-3 ">
+                            <div class="vk-list-project-item">
+                                <div class="vk-img-frame proj">
+                                    <img src="images/home/default/7.jpg" alt="" />
+                                </div>
 
-                                    <div class="vk-hover">
-                                        <div class="wrapper">
-                                            <div class="inner-wrapper">
-                                                <div class="content">
-                                                    <div class="vk-sub-title">office</div>
-                                                    <h4 class="vk-main-title">
-                                                        office's furniture
-                                                    </h4>
-                                                    <div class="vk-list-meta">
+                                <div class="vk-hover">
+                                    <div class="wrapper">
+                                        <div class="inner-wrapper">
+                                            <div class="content">
+                                                <div class="vk-sub-title">bathroom</div>
+                                                <h4 class="vk-main-title">
+                                                    bathroom's furniture
+                                                </h4>
+                                                <div class="vk-list-meta">
 
-                                                    </div>
-                                                    <!--./vk-list-meta-->
                                                 </div>
-                                                <!--./content-->
+                                                <!--./vk-list-meta-->
                                             </div>
-                                            <!--./inner-wrapper-->
+                                            <!--./content-->
                                         </div>
-                                        <!--./wrapper-->
+                                        <!--./inner-wrapper-->
                                     </div>
-                                    <!--./vk-hover-->
+                                    <!--./wrapper-->
                                 </div>
-                            </li>
-                        </ul>
-                  
+                                <!--./vk-hover-->
+                            </div>
+                        </li>
+
+                        <li class="col-sm-6 col-md-3 ">
+                            <div class="vk-list-project-item">
+                                <div class="vk-img-frame proj">
+                                    <img src="images/home/default/8.jpg" alt="" />
+                                </div>
+
+                                <div class="vk-hover">
+                                    <div class="wrapper">
+                                        <div class="inner-wrapper">
+                                            <div class="content">
+                                                <div class="vk-sub-title">office</div>
+                                                <h4 class="vk-main-title">
+                                                    office's furniture
+                                                </h4>
+                                                <div class="vk-list-meta">
+
+                                                </div>
+                                                <!--./vk-list-meta-->
+                                            </div>
+                                            <!--./content-->
+                                        </div>
+                                        <!--./inner-wrapper-->
+                                    </div>
+                                    <!--./wrapper-->
+                                </div>
+                                <!--./vk-hover-->
+                            </div>
+                        </li>
+                    </ul>
+
+                    <div class="portfolio ">
+                        <div class=" vk-buttons ">
+                            <a href=" portfolio.php" class="vk-btn vk-btn-view-project">SEE MORE &nbsp;<i class="fa fa-long-arrow-right"></i></a>
+                        </div>
+                    </div>
                 </div>
+
                 <!--./vk-home-portfolio-->
 
                 <div class="vk-home-blog">
