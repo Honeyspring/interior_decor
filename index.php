@@ -7,6 +7,7 @@
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0" />
     <meta charset="UTF-8" />
     <title>Bracebrownn </title>
+    <link rel='icon' href='images/logo/logo.jpeg' type='image/x-icon' />
     <link href="plugin/fonts/transfonter/fonts.css" rel="stylesheet" />
     <link href="plugin/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet" />
     <link href="plugin/fonts/platicon/font/flaticon.css" rel="stylesheet" />
@@ -34,10 +35,12 @@
         <?php include('./header.html') ?>
         <section class="vk-content">
             <div class="vk-home default">
+
                 <div class="vk-home-slider vk-slider vk-slider-dots-style-2" data-slider-name="home-slider">
                     <div class="vk-home-slider-item">
                         <div class="vk-img-frame">
-                            <img src="images/home/banner/banner1.jpg" alt="" />
+                            <div class="vk-background-overlay vk-background-black _90"></div>
+                            <img src="images/home/banner/banner9.jpg" style="height:640px" alt="" />
                         </div>
 
                         <div class="vk-slide-main-content">
@@ -45,7 +48,7 @@
                                 <div class="vk-inner-container">
                                     <div class="vk-inner-content">
                                         <div class="vk-main-heading">
-                                            We add the sparkle with every touch
+                                            You Can Bet On Us
                                         </div>
                                         <div class="vk-sub-heading">Interior Design</div>
                                     </div>
@@ -58,7 +61,8 @@
                     </div>
                     <div class="vk-home-slider-item">
                         <div class="vk-img-frame">
-                            <img src="images/home/banner/banner2.jpg" alt="" />
+                            <div class="vk-background-overlay vk-background-black _90"></div>
+                            <img src="images/home/banner/banner8.jpg" style="height:640px" alt="" />
                         </div>
 
                         <div class="vk-slide-main-content">
@@ -66,7 +70,7 @@
                                 <div class="vk-inner-container">
                                     <div class="vk-inner-content">
                                         <div class="vk-main-heading">
-                                            Let us make the differences
+                                            You Can Bet On Us
                                         </div>
                                         <div class="vk-sub-heading">Interior Design</div>
                                     </div>
@@ -79,7 +83,8 @@
                     </div>
                     <div class="vk-home-slider-item">
                         <div class="vk-img-frame">
-                            <img src="images/home/banner/banner3.jpg" alt="" />
+                            <div class="vk-background-overlay vk-background-black _90"></div>
+                            <img src="images/home/banner/banner7.jpg" style="height:640px" alt="" />
                         </div>
 
                         <div class="vk-slide-main-content">
@@ -87,7 +92,7 @@
                                 <div class="vk-inner-container">
                                     <div class="vk-inner-content">
                                         <div class="vk-main-heading">
-                                            You can bet on us
+                                            We Welcome You Onboard
                                         </div>
                                         <div class="vk-sub-heading">Interior Design</div>
                                     </div>
@@ -100,28 +105,8 @@
                     </div>
                     <div class="vk-home-slider-item">
                         <div class="vk-img-frame">
-                            <img src="images/home/banner/banner4.jpg" alt="" />
-                        </div>
-
-                        <div class="vk-slide-main-content">
-                            <div class="container">
-                                <div class="vk-inner-container">
-                                    <div class="vk-inner-content">
-                                        <div class="vk-main-heading">
-                                            We welcome you onboard
-                                        </div>
-                                        <div class="vk-sub-heading">Interior Design</div>
-                                    </div>
-                                </div>
-                                <!--./vk-inner-container-->
-                            </div>
-                            <!--./container-->
-                        </div>
-                        <!--./vk-slide-main-content-->
-                    </div>
-                    <div class="vk-home-slider-item">
-                        <div class="vk-img-frame">
-                            <img src="images/home/banner/banner5.jpg" alt="" />
+                            <div class="vk-background-overlay vk-background-black _90"></div>
+                            <img src="images/home/banner/banner6.jpg" style="height:640px" alt="" />
                         </div>
 
                         <div class="vk-slide-main-content">
@@ -140,6 +125,119 @@
                         </div>
                         <!--./vk-slide-main-content-->
                     </div>
+                    <div class="vk-home-slider-item">
+
+                        <div class="vk-img-frame">
+                            <div class="vk-background-overlay vk-background-black _90"></div>
+                            <img src="images/home/banner/banner1.jpg" style="height:640px" alt="" />
+                        </div>
+
+                        <div class="vk-slide-main-content">
+                            <div class="container">
+                                <div class="vk-inner-container">
+                                    <div class="vk-inner-content">
+
+                                        <div class="vk-main-heading">
+                                            Every Touch Sparkles
+                                        </div>
+                                        <div class="vk-sub-heading">Interior Design</div>
+                                    </div>
+                                </div>
+                                <!--./vk-inner-container-->
+                            </div>
+                            <!--./container-->
+                        </div>
+                        <!--./vk-slide-main-content-->
+                    </div>
+                    <div class="vk-home-slider-item">
+                        <div class="vk-img-frame">
+                            <div class="vk-background-overlay vk-background-black _90"></div>
+                            <img src="images/home/banner/banner2.jpg" style="height:640px" alt="" />
+                        </div>
+
+                        <div class="vk-slide-main-content">
+                            <div class="container">
+                                <div class="vk-inner-container">
+                                    <div class="vk-inner-content">
+                                        <div class="vk-main-heading">
+                                            Let Us Make The differences
+                                        </div>
+                                        <div class="vk-sub-heading">Interior Design</div>
+                                    </div>
+                                </div>
+                                <!--./vk-inner-container-->
+                            </div>
+                            <!--./container-->
+                        </div>
+                        <!--./vk-slide-main-content-->
+                    </div>
+                    <div class="vk-home-slider-item">
+                        <div class="vk-img-frame">
+                            <div class="vk-background-overlay vk-background-black _90"></div>
+                            <img src="images/home/banner/banner3.jpg" style="height:640px" alt="" />
+                        </div>
+
+                        <div class="vk-slide-main-content">
+                            <div class="container">
+                                <div class="vk-inner-container">
+                                    <div class="vk-inner-content">
+                                        <div class="vk-main-heading">
+                                            You Can Bet On Us
+                                        </div>
+                                        <div class="vk-sub-heading">Interior Design</div>
+                                    </div>
+                                </div>
+                                <!--./vk-inner-container-->
+                            </div>
+                            <!--./container-->
+                        </div>
+                        <!--./vk-slide-main-content-->
+                    </div>
+                    <div class="vk-home-slider-item">
+                        <div class="vk-img-frame">
+                            <div class="vk-background-overlay vk-background-black _90"></div>
+                            <img src="images/home/banner/banner4.jpg" style="height:640px" alt="" />
+                        </div>
+
+                        <div class="vk-slide-main-content">
+                            <div class="container">
+                                <div class="vk-inner-container">
+                                    <div class="vk-inner-content">
+                                        <div class="vk-main-heading">
+                                            We Welcome You Onboard
+                                        </div>
+                                        <div class="vk-sub-heading">Interior Design</div>
+                                    </div>
+                                </div>
+                                <!--./vk-inner-container-->
+                            </div>
+                            <!--./container-->
+                        </div>
+                        <!--./vk-slide-main-content-->
+                    </div>
+                    <div class="vk-home-slider-item">
+                        <div class="vk-img-frame">
+                            <div class="vk-background-overlay vk-background-black _90"></div>
+                            <img src="images/home/banner/banner5.jpg" style="height:640px" alt="" />
+                        </div>
+
+                        <div class="vk-slide-main-content">
+                            <div class="container">
+                                <div class="vk-inner-container">
+                                    <div class="vk-inner-content">
+                                        <div class="vk-main-heading">
+                                            Making a differences
+                                        </div>
+                                        <div class="vk-sub-heading">Interior Design</div>
+                                    </div>
+                                </div>
+                                <!--./vk-inner-container-->
+                            </div>
+                            <!--./container-->
+                        </div>
+                        <!--./vk-slide-main-content-->
+                    </div>
+
                 </div>
                 <!--./vk-home-slider-->
 
@@ -165,11 +263,12 @@
 
                                                 We carefully followed and observed the Tenets of interior design; which we considered very important in all our projects and this has guided us as we take each project from start to finish.
 
-                                                The passion for arranging spaces and creating beautiful accessories pieces that look like the play was becoming an enterprise hence the birth of Bracebrownn design. The journey has been a learning and a
+                                                The passion for arranging spaces and creating beautiful accessories pieces that look like the play was becoming an enterprise hence the birth of Bracebrownn design. The journey has been a learning and a ...
                                             </p>
                                         </div>
-
-                                        <a href="2.1-about-page.html" class="vk-btn vk-btn-view-project">READ MORE &nbsp;<i class="fa fa-long-arrow-right"></i></a>
+                                        <div class="vk-buttons">
+                                            <a href="about.php" class="vk-btn vk-btn-view-project">READ MORE &nbsp;<i class="fa fa-long-arrow-right"></i></a>
+                                        </div>
                                     </div>
                                     <!--./inner-wrapper-->
                                 </div>
@@ -287,8 +386,8 @@
                     </div>
                     <!--./vk-heading-box-->
 
-                    <ul class="vk-list vk-list-project">
-                        <li class="col-sm-6 col-md-3">
+                    <ul class="vk-list vk-list-project  ">
+                        <li class="col-sm-6 col-md-3 ">
                             <div class="vk-list-project-item">
                                 <div class="vk-img-frame proj">
                                     <img src="images/home/default/1.jpg" alt="" />
@@ -317,7 +416,7 @@
                             </div>
                         </li>
 
-                        <li class="col-sm-6 col-md-3">
+                        <li class="col-sm-6 col-md-3 ">
                             <div class="vk-list-project-item">
                                 <div class="vk-img-frame proj">
                                     <img src="images/home/default/2.jpg" alt="" />
@@ -346,7 +445,7 @@
                             </div>
                         </li>
 
-                        <li class="col-sm-6 col-md-3">
+                        <li class="col-sm-6 col-md-3 ">
                             <div class="vk-list-project-item">
                                 <div class="vk-img-frame proj">
                                     <img src="images/home/default/3.jpg" alt="" />
@@ -375,7 +474,7 @@
                             </div>
                         </li>
 
-                        <li class="col-sm-6 col-md-3">
+                        <li class="col-sm-6 col-md-3 ">
                             <div class="vk-list-project-item">
                                 <div class="vk-img-frame proj">
                                     <img src="images/home/default/4.jpg" alt="" />
@@ -404,7 +503,7 @@
                             </div>
                         </li>
 
-                        <li class="col-sm-6 col-md-3">
+                        <li class="col-sm-6 col-md-3 ">
                             <div class="vk-list-project-item">
                                 <div class="vk-img-frame proj">
                                     <img src="images/home/default/5.jpg" alt="" />
@@ -433,7 +532,7 @@
                             </div>
                         </li>
 
-                        <li class="col-sm-6 col-md-3">
+                        <li class="col-sm-6 col-md-3 ">
                             <div class="vk-list-project-item">
                                 <div class="vk-img-frame proj">
                                     <img src="images/home/default/6.jpg" alt="" />
@@ -462,7 +561,7 @@
                             </div>
                         </li>
 
-                        <li class="col-sm-6 col-md-3">
+                        <li class="col-sm-6 col-md-3 ">
                             <div class="vk-list-project-item">
                                 <div class="vk-img-frame proj">
                                     <img src="images/home/default/7.jpg" alt="" />
@@ -491,7 +590,7 @@
                             </div>
                         </li>
 
-                        <li class="col-sm-6 col-md-3">
+                        <li class="col-sm-6 col-md-3 ">
                             <div class="vk-list-project-item">
                                 <div class="vk-img-frame proj">
                                     <img src="images/home/default/8.jpg" alt="" />
@@ -520,7 +619,14 @@
                             </div>
                         </li>
                     </ul>
+
+                    <div class="portfolio ">
+                        <div class=" vk-buttons ">
+                            <a href=" portfolio.php" class="vk-btn vk-btn-view-project">SEE MORE &nbsp;<i class="fa fa-long-arrow-right"></i></a>
+                        </div>
+                    </div>
                 </div>
+
                 <!--./vk-home-portfolio-->
 
                 <div class="vk-home-blog">
@@ -560,7 +666,7 @@
                                 <div class="vk-testimonial-item">
                                     <i class="vk-icon fa fa-quote-left"></i>
                                     <h5 class="vk-title vk-text-color-yellow-1">
-                                        Bracebrownn's Mission
+                                        BraceBrownn's Mission
                                     </h5>
                                     <p class="vk-text">
                                         Our mission is to put a smile on our clients' faces,
@@ -577,7 +683,7 @@
                                     <i class="vk-icon fa fa-quote-left"></i>
                                     <h5 class="vk-title vk-text-color-yellow-1
                                     ">
-                                        Bracebrownn's Vision
+                                        BraceBrownn's Vision
                                     </h5>
                                     <p class="vk-text">
                                         To make our brand a household name and also creating

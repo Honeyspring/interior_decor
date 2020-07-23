@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0" />
     <meta charset="UTF-8" />
     <title>Bracebrownn</title>
-    <link rel='icon' href='logogoeshere' type='image/x-icon' />
+    <link rel='icon' href='images/logo/logo.jpeg' type='image/x-icon' />
     <link href="plugin/fonts/transfonter/fonts.css" rel="stylesheet" />
     <link href="plugin/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet" />
     <link href="plugin/fonts/platicon/font/flaticon.css" rel="stylesheet" />
@@ -37,7 +37,7 @@
 
         <section class="vk-content">
             <div class="vk-banner vk-background-image-3">
-                <div class="vk-background-overlay vk-background-black _60"></div>
+                <div class="vk-background-overlay vk-background-black _70"></div>
                 <div class="container">
                     <div class="vk-banner-wrapper">
                         <div class="page-heading text-center">
@@ -46,9 +46,9 @@
 
                         <div class="vk-breadcrumb">
                             <ul class="">
-                                <li><a href="index.html">home</a></li>
+                                <li><a href="index.php">home</a></li>
 
-                                <li class="active"><a href="about.html">About Us</a></li>
+                                <li class="active">About Us</li>
                             </ul>
                         </div>
                         <!--./vk-breadcrumb-->
@@ -79,7 +79,7 @@
                                                 both commercial and residential spaces
                                             </p>
                                             <p>
-                                                Bracebrownn Innovations Limited popularly known as
+                                                BraceBrownn Innovations Limited popularly known as
                                                 Bracebrownn; is an interior design company based in
                                                 Lagos Nigeria that specializes in interior and
                                                 exterior services for both commercial and residential
@@ -340,35 +340,7 @@
                         </div>
                         <!--./vk-about-list-->
 
-                        <div class="vk-contact-form vk-form vk-section-distance-top responsive-fix-2">
-                            <h6 class="vk-heading vk-heading-form vk-heading-style-3 text-center">
-                                SEND TO US AN EMAIL
-                            </h6>
-                            <div class="row">
-                                <div class="col-md-12" style="margin-bottom: 15px; color: red;">
-                                    <div id="message-contact"></div>
-                                </div>
-                                <form method="post" action="http://funimal.vikitheme.com/html/mail/contact.php" id="contactform" autocomplete="off">
-                                    <div class="col-md-4">
-                                        <input type="text" id="name_contact" name="name_contact" class="form-control" placeholder="Your name" />
-                                    </div>
-                                    <div class="col-md-4">
-                                        <input type="email" id="email_contact" name="email_contact" class="form-control" placeholder="Your email" />
-                                    </div>
-                                    <div class="col-md-4">
-                                        <input type="tel" id="phone_contact" name="phone_contact" class="form-control" placeholder="Your Phone" />
-                                    </div>
-                                    <div class="col-md-12">
-                                        <input id="message_contact" name="message_contact" type="text" class="form-control" placeholder="Message" />
-                                    </div>
-                                    <div class="col-md-12 text-center">
-                                        <input type="submit" class="vk-btn" value="SEND" />
-                                    </div>
-                                </form>
-                            </div>
-                            <!--./row-->
-                        </div>
-                        <!--./vk-contact-form-->
+
                     </div>
                     <!--./container-->
                 </div>
