@@ -8,22 +8,22 @@
     <meta charset="UTF-8" />
     <title>Bracebrownn </title>
     <link rel='icon' href='images/logo/logo.jpeg' type='image/x-icon' />
-    <link href="plugin/fonts/transfonter/fonts.css" rel="stylesheet" />
-    <link href="plugin/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet" />
-    <link href="plugin/fonts/platicon/font/flaticon.css" rel="stylesheet" />
-    <link href="plugin/fonts/themify/themify-icons.css" rel="stylesheet" />
-    <link href="plugin/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
-    <link href="plugin/animsition/css/animsition.min.css" rel="stylesheet" />
+    <link href="plugin/fonts/transfonter/fonts.css?" rel="stylesheet" />
+    <link href="plugin/fonts/font-awesome/css/font-awesome.min.css?" rel="stylesheet" />
+    <link href="plugin/fonts/platicon/font/flaticon.css?" rel="stylesheet" />
+    <link href="plugin/fonts/themify/themify-icons.css?" rel="stylesheet" />
+    <link href="plugin/bootstrap/css/bootstrap.min.css?" rel="stylesheet" />
+    <link href="plugin/animsition/css/animsition.min.css?" rel="stylesheet" />
     <link href="plugin/lightbox/css/lightbox.min.css" rel="stylesheet" />
-    <link href="css/animate.css" rel="stylesheet" />
-    <link href="plugin/slick/slick.css" rel="stylesheet" />
-    <link href="plugin/player/mediaelementplayer.css" rel="stylesheet" />
-    <link href="plugin/jquery-ui/jquery-ui.css" rel="stylesheet" />
+    <link href="css/animate.css?" rel="stylesheet" />
+    <link href="plugin/slick/slick.css?" rel="stylesheet" />
+    <link href="plugin/player/mediaelementplayer.css?" rel="stylesheet" />
+    <link href="plugin/jquery-ui/jquery-ui.css?" rel="stylesheet" />
 
-    <link href="css/style.css" rel="stylesheet" />
-    <link href="css/customize.css" rel="stylesheet" />
+    <link href="css/style.css?" rel="stylesheet" />
+    <link href="css/customize.css?" rel="stylesheet" />
 
-    <script src="plugin/modernizr.js"></script>
+    <script src="plugin/modernizr.js?"></script>
 
 
 
@@ -758,13 +758,13 @@
 
     <!-- BEGIN: SCRIPT -->
 
-    <script src="plugin/jquery/jquery-2.0.2.min.js"></script>
+    <script src="plugin/jquery/jquery-2.0.2.min.js?"></script>
 
 
-    <script src="plugin/plugin.min.js"></script>
+    <script src="plugin/plugin.min.js?"></script>
 
-    <script src="plugin/main.js"></script>
-    <script src="plugin/custom.js"></script>
+    <script src="plugin/main.js?"></script>
+    <script src="plugin/custom.js?"></script>
     <!-- END: SCRIPT -->
 </body>
 

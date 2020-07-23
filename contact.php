@@ -8,22 +8,22 @@
     <meta charset="UTF-8" />
     <title>Bracebrownn</title>
     <link rel='icon' href='images/logo/logo.jpeg' type='image/x-icon' />
-    <link href="plugin/fonts/transfonter/fonts.css" rel="stylesheet" />
-    <link href="plugin/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet" />
-    <link href="plugin/fonts/platicon/font/flaticon.css" rel="stylesheet" />
-    <link href="plugin/fonts/themify/themify-icons.css" rel="stylesheet" />
-    <link href="plugin/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
-    <link href="plugin/animsition/css/animsition.min.css" rel="stylesheet" />
-    <link href="plugin/lightbox/css/lightbox.min.css" rel="stylesheet" />
-    <link href="css/animate.css" rel="stylesheet" />
-    <link href="plugin/slick/slick.css" rel="stylesheet" />
-    <link href="plugin/player/mediaelementplayer.css" rel="stylesheet" />
-    <link href="plugin/jquery-ui/jquery-ui.css" rel="stylesheet" />
-    <link href="../../vjs.zencdn.net/6.1.0/video-js.css" rel="stylesheet" />
-    <link href="css/style.css" rel="stylesheet" />
-    <link href="css/customize.css" rel="stylesheet" />
-    <script src="plugin/modernizr.js"></script>
-    <script src="../../vjs.zencdn.net/ie8/1.1.2/videojs-ie8.min.js"></script>
+    <link href="plugin/fonts/transfonter/fonts.css?" rel="stylesheet" />
+    <link href="plugin/fonts/font-awesome/css/font-awesome.min.css?" rel="stylesheet" />
+    <link href="plugin/fonts/platicon/font/flaticon.css?" rel="stylesheet" />
+    <link href="plugin/fonts/themify/themify-icons.css?" rel="stylesheet" />
+    <link href="plugin/bootstrap/css/bootstrap.min.css?" rel="stylesheet" />
+    <link href="plugin/animsition/css/animsition.min.css?" rel="stylesheet" />
+    <link href="plugin/lightbox/css/lightbox.min.css?" rel="stylesheet" />
+    <link href="css/animate.css?" rel="stylesheet" />
+    <link href="plugin/slick/slick.css?" rel="stylesheet" />
+    <link href="plugin/player/mediaelementplayer.css?" rel="stylesheet" />
+    <link href="plugin/jquery-ui/jquery-ui.css?" rel="stylesheet" />
+    <link href="../../vjs.zencdn.net/6.1.0/video-js.css?" rel="stylesheet" />
+    <link href="css/style.css?" rel="stylesheet" />
+    <link href="css/customize.css?" rel="stylesheet" />
+    <script src="plugin/modernizr.js?"></script>
+    <script src="../../vjs.zencdn.net/ie8/1.1.2/videojs-ie8.min.js?"></script>
 
 
 </head>
@@ -32,10 +32,6 @@
     <div class="animsition main-wrapper">
 
         <?php include('./header.html') ?>
-        <!--headercontent-->
-
-        <!--./vk-header-->
-
         <section class="vk-content ">
             <div class="vk-banner vk-background-image-1">
                 <div class="vk-background-overlay vk-background-black _80"></div>
@@ -48,9 +44,6 @@
                         <div class="vk-breadcrumb">
                             <ul class="">
                                 <li><a href="index.php">home</a></li>
-
-
-
                                 <li class="active">Contact</li>
                             </ul>
                         </div>
@@ -62,7 +55,6 @@
             <!--./vk-banner-->
 
             <div class="vk-page page page-contact ">
-
                 <div class="vk-contact-us">
                     <div class="container">
                         <h6 class="vk-heading vk-heading-style-3"><span class="vk-line"></span>CONTACT US</h6>
@@ -105,50 +97,48 @@
                         </div>
                         <!--./vk-about-list-->
 
-
                         <div class="vk-contact-form vk-form vk-section-distance-top responsive-fix-2">
                             <h6 class="vk-heading vk-heading-form vk-heading-style-3 text-center">SEND TO US AN EMAIL</h6>
                             <div class="row">
                                 <div class="col-md-12" style="margin-bottom: 15px; color:red;">
                                     <div id="message-contact"></div>
                                 </div>
-                                <form method="post" action="http://funimal.vikitheme.com/html/mail/contact.php" id="contactform" autocomplete="off">
+                                <form method="post" action="mail/send-email.php">
                                     <div class="col-md-4">
-                                        <input type="text" id="name_contact" name="name_contact" class="form-control" placeholder="Your name">
+                                        <input type="text" id="name_contact" name="name" class="form-control" placeholder="Your name" required>
                                     </div>
                                     <div class="col-md-4">
-                                        <input type="email" id="email_contact" name="email_contact" class="form-control" placeholder="Your email">
+                                        <input type="email" id="email_contact" name="email" class="form-control" placeholder="Your email" required>
                                     </div>
                                     <div class="col-md-4">
-                                        <input type="tel" id="phone_contact" name="phone_contact" class="form-control" placeholder="Your Phone">
+                                        <input type="tel" id="phone_contact" name="phone_number" class="form-control" placeholder="Your Phone" required>
                                     </div>
-                                    <div class="col-md-12">
-                                        <input id="message_contact" name="message_contact" type="text" class="form-control" placeholder="Message">
+                                    <div class="col-md-12" id="submitInput">
+                                        <input id="message_contact" name="message" type="text" class="form-control" placeholder="Message" required>
+                                    </div>
+                                    <div class="col-md-4 col-lg-offset-4">
+                                        <div class="mb-4 g-recaptcha" data-sitekey="6Ld-obMZAAAAANHWZVPSFLdDH8kwpAxdkyzyG1HO"></div>
                                     </div>
                                     <div class="col-md-12 text-center">
-                                        <input type="submit" class="vk-btn" value="SEND">
+                                        <button type="submit" class="vk-btn">Send</button>
                                     </div>
                                 </form>
                             </div>
                             <!--./row-->
                         </div>
                         <!--./vk-contact-form-->
-
                     </div>
                     <!--./container-->
                 </div>
                 <!--./contact-us-->
-
-
-
             </div>
     </div>
     <!--./vk-page-->
     </section>
     <!--./content-->
-
     <footer class="vk-footer vk-footer-style-1" id=footer>
-        <?php include('./footer.html') ?>
+        <?php include('./footer.html');
+        ?>
         <!--./container-->
     </footer>
     <!--./vk-footer-->
@@ -156,13 +146,42 @@
     <!--./main-wrapper-->
 
     <!-- BEGIN: SCRIPT -->
-    <script src="plugin/jquery/jquery-2.0.2.min.js"></script>
-    <script src="../../vjs.zencdn.net/6.1.0/video.js"></script>
-    <script src="plugin/plugin.min.js"></script>
+    <script src="plugin/jquery/jquery-2.0.2.min.js?"></script>
+    <script src="../../vjs.zencdn.net/6.1.0/video.js?"></script>
+    <script src="plugin/plugin.min.js?"></script>
 
-    <script src="plugin/main.js"></script>
-    <script src="plugin/custom.js"></script>
+    <script src="plugin/main.js?"></script>
+    <script src="plugin/custom.js?"></script>
+    <script src='https://www.google.com/recaptcha/api.js'></script>
     <!-- END: SCRIPT -->
-</body>
+    <?php if(!isset($_COOKIE['result'])) {
 
+    } else {
+        if($_COOKIE['result'] == "The captcha field must be checked"){?>
+            <script type='text/javascript'>
+                alert('The captcha field must be checked');
+                $('#submitInput').after('<div class="mb-4" style="color: red; text-align: center"><h3 style="color: red; text-align: center">The captcha field must be checked</h3></div>');
+            </script>
+        <?php  }
+        elseif ($_COOKIE['result'] == "All field must be filled") {?>
+            <script type='text/javascript'>
+                alert('All field must be filled');
+                $('#submitInput').after('<div class="mb-4" style="color: red; text-align: center"><h3 style="color: red; text-align: center">All field must be filled</h3></div>');
+            </script>
+        <?php }
+        elseif ($_COOKIE['result'] == "Form submitted Successfully") {?>
+            <script type='text/javascript'>
+                alert('Form submitted successfully');
+                $('#submitInput').after('<div class="mb-4" style="color: green; text-align: center"><h3 style="color: green; text-align: center">Form submitted successfully</h3></div>');
+            </script>
+        <?php }
+        else{
+        ?>
+            <script type='text/javascript'>
+                alert('Error Submitting the form');
+                $('#submitInput').after('<div class="mb-4" style="color: red; text-align: center"><h3 style="color: red; text-align: center">Error Submitting the form</h3></div>');
+            </script>
+        <?php }
+    } ?>
+</body>
 </html>
