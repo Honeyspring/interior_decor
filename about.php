@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0" />
     <meta charset="UTF-8" />
     <title>Bracebrownn</title>
-    <link rel='icon' href='images/logo/logo.jpeg' type='image/x-icon' />
+    <link rel='icon' href='images/logo/logo.png' type='image/x-icon' />
     <link href="plugin/fonts/transfonter/fonts.css?" rel="stylesheet" />
     <link href="plugin/fonts/font-awesome/css/font-awesome.min.css?" rel="stylesheet" />
     <link href="plugin/fonts/platicon/font/flaticon.css?" rel="stylesheet" />
@@ -121,7 +121,7 @@
                                     <div class="vk-image">
                                         <div class="vk-img-frame">
                                             <a href="#" class="vk-img">
-                                                <img src="images/page/about/img1.jpg" alt="" />
+                                                <img src="images/portfolio/living.webp" alt="" />
                                             </a>
                                         </div>
                                     </div>
