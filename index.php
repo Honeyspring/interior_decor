@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0" />
     <meta charset="UTF-8" />
     <title>Bracebrownn </title>
-    <link rel='icon' href='images/logo/logo.jpeg' type='image/x-icon' />
+    <link rel='icon' href='images/logo/logo.png' type='image/x-icon' />
     <link href="plugin/fonts/transfonter/fonts.css" rel="stylesheet" />
     <link href="plugin/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet" />
     <link href="plugin/fonts/platicon/font/flaticon.css" rel="stylesheet" />
@@ -40,7 +40,7 @@
                     <div class="vk-home-slider-item">
                         <div class="vk-img-frame">
                             <div class="vk-background-overlay vk-background-black _90"></div>
-                            <img src="images/home/banner/banner9.jpg" style="height:640px" alt="" />
+                            <img src="images/home/banner/banner9.webp" style="height:640px" alt="" />
                         </div>
 
                         <div class="vk-slide-main-content">
@@ -62,7 +62,7 @@
                     <div class="vk-home-slider-item">
                         <div class="vk-img-frame">
                             <div class="vk-background-overlay vk-background-black _90"></div>
-                            <img src="images/home/banner/banner8.jpg" style="height:640px" alt="" />
+                            <img src="images/home/banner/banner8.webp" style="height:640px" alt="" />
                         </div>
 
                         <div class="vk-slide-main-content">
@@ -84,7 +84,7 @@
                     <div class="vk-home-slider-item">
                         <div class="vk-img-frame">
                             <div class="vk-background-overlay vk-background-black _90"></div>
-                            <img src="images/home/banner/banner7.jpg" style="height:640px" alt="" />
+                            <img src="images/home/banner/banner7.webp" style="height:640px" alt="" />
                         </div>
 
                         <div class="vk-slide-main-content">
@@ -106,7 +106,7 @@
                     <div class="vk-home-slider-item">
                         <div class="vk-img-frame">
                             <div class="vk-background-overlay vk-background-black _90"></div>
-                            <img src="images/home/banner/banner6.jpg" style="height:640px" alt="" />
+                            <img src="images/home/banner/banner6.webp" style="height:640px" alt="" />
                         </div>
 
                         <div class="vk-slide-main-content">
@@ -129,7 +129,7 @@
 
                         <div class="vk-img-frame">
                             <div class="vk-background-overlay vk-background-black _90"></div>
-                            <img src="images/home/banner/banner1.jpg" style="height:640px" alt="" />
+                            <img src="images/home/banner/banner1.webp" style="height:640px" alt="" />
                         </div>
 
                         <div class="vk-slide-main-content">
@@ -152,7 +152,7 @@
                     <div class="vk-home-slider-item">
                         <div class="vk-img-frame">
                             <div class="vk-background-overlay vk-background-black _90"></div>
-                            <img src="images/home/banner/banner2.jpg" style="height:640px" alt="" />
+                            <img src="images/home/banner/banner2.webp" style="height:640px" alt="" />
                         </div>
 
                         <div class="vk-slide-main-content">
@@ -174,7 +174,7 @@
                     <div class="vk-home-slider-item">
                         <div class="vk-img-frame">
                             <div class="vk-background-overlay vk-background-black _90"></div>
-                            <img src="images/home/banner/banner3.jpg" style="height:640px" alt="" />
+                            <img src="images/home/banner/banner3.webp" style="height:640px" alt="" />
                         </div>
 
                         <div class="vk-slide-main-content">
@@ -196,7 +196,7 @@
                     <div class="vk-home-slider-item">
                         <div class="vk-img-frame">
                             <div class="vk-background-overlay vk-background-black _90"></div>
-                            <img src="images/home/banner/banner4.jpg" style="height:640px" alt="" />
+                            <img src="images/home/banner/banner4.webp" style="height:640px" alt="" />
                         </div>
 
                         <div class="vk-slide-main-content">
@@ -218,7 +218,7 @@
                     <div class="vk-home-slider-item">
                         <div class="vk-img-frame">
                             <div class="vk-background-overlay vk-background-black _90"></div>
-                            <img src="images/home/banner/banner5.jpg" style="height:640px" alt="" />
+                            <img src="images/home/banner/banner5.webp" style="height:640px" alt="" />
                         </div>
 
                         <div class="vk-slide-main-content">
@@ -278,7 +278,7 @@
                                     <div class="vk-image">
                                         <div class="vk-img-frame">
                                             <a href="#" class="vk-img">
-                                                <img src="images/home/default/img.jpg" alt="" />
+                                                <img src="images/portfolio/living (2).webp" alt="" />
                                             </a>
                                         </div>
                                     </div>
@@ -295,7 +295,7 @@
                 <div class="vk-home-service">
                     <div class="vk-section-background">
                         <div class="vk-section-background-left vk-img-frame">
-                            <img src="images/home/default/img1.jpg" alt="" />
+                            <img src="images/portfolio/living (1).webp" alt="" />
                         </div>
                     </div>
                     <!--./vk-service-background-->
@@ -390,7 +390,7 @@
                         <li class="col-sm-6 col-md-3 ">
                             <div class="vk-list-project-item">
                                 <div class="vk-img-frame proj">
-                                    <img src="images/home/default/1.jpg" alt="" />
+                                    <img src="images/portfolio/kitchen.jpg" alt="" />
                                 </div>
 
                                 <div class="vk-hover">
@@ -419,7 +419,7 @@
                         <li class="col-sm-6 col-md-3 ">
                             <div class="vk-list-project-item">
                                 <div class="vk-img-frame proj">
-                                    <img src="images/home/default/2.jpg" alt="" />
+                                    <img src="images/portfolio/bedroom.webp" alt="" />
                                 </div>
 
                                 <div class="vk-hover">
@@ -448,7 +448,7 @@
                         <li class="col-sm-6 col-md-3 ">
                             <div class="vk-list-project-item">
                                 <div class="vk-img-frame proj">
-                                    <img src="images/home/default/3.jpg" alt="" />
+                                    <img src="images/portfolio/living (3).webp" alt="" />
                                 </div>
 
                                 <div class="vk-hover">
@@ -477,7 +477,7 @@
                         <li class="col-sm-6 col-md-3 ">
                             <div class="vk-list-project-item">
                                 <div class="vk-img-frame proj">
-                                    <img src="images/home/default/4.jpg" alt="" />
+                                    <img src="images/portfolio/bedroom.webp" alt="" />
                                 </div>
 
                                 <div class="vk-hover">
@@ -506,7 +506,7 @@
                         <li class="col-sm-6 col-md-3 ">
                             <div class="vk-list-project-item">
                                 <div class="vk-img-frame proj">
-                                    <img src="images/home/default/5.jpg" alt="" />
+                                    <img src="images/portfolio/office.jpg" alt="" />
                                 </div>
 
                                 <div class="vk-hover">
@@ -535,7 +535,7 @@
                         <li class="col-sm-6 col-md-3 ">
                             <div class="vk-list-project-item">
                                 <div class="vk-img-frame proj">
-                                    <img src="images/home/default/6.jpg" alt="" />
+                                    <img src="images/portfolio/office (1).webp" alt="" />
                                 </div>
 
                                 <div class="vk-hover">
@@ -564,7 +564,7 @@
                         <li class="col-sm-6 col-md-3 ">
                             <div class="vk-list-project-item">
                                 <div class="vk-img-frame proj">
-                                    <img src="images/home/default/7.jpg" alt="" />
+                                    <img src="images/portfolio/bathroom.webp" alt="" />
                                 </div>
 
                                 <div class="vk-hover">
@@ -593,7 +593,7 @@
                         <li class="col-sm-6 col-md-3 ">
                             <div class="vk-list-project-item">
                                 <div class="vk-img-frame proj">
-                                    <img src="images/home/default/8.jpg" alt="" />
+                                    <img src="images/portfolio/office (2).webp" alt="" />
                                 </div>
 
                                 <div class="vk-hover">
@@ -703,31 +703,31 @@
                             <ul class="vk-list vk-list-inline vk-slider slide-nav vk-slide-nav-top-left" data-slider-name="testimonial-slide-nav">
                                 <li class="vk-testimonial-item-1">
                                     <div class="vk-img-frame">
-                                        <img src="images/testimonial/testimonial-1.jpeg" alt="" />
+                                        <img src="images/testimonial/testimonial-1.webp" alt="" />
                                     </div>
                                 </li>
 
                                 <li class="vk-testimonial-item-1">
                                     <div class="vk-img-frame">
-                                        <img src="images/testimonial/testimonial-2.jpeg" alt="" />
+                                        <img src="images/testimonial/testimonial-2.webp" alt="" />
                                     </div>
                                 </li>
 
                                 <li class="vk-testimonial-item-1">
                                     <div class="vk-img-frame">
-                                        <img src="images/testimonial/testimonial-3.png" alt="" />
+                                        <img src="images/testimonial/testimonial-3.webp" alt="" />
                                     </div>
                                 </li>
 
                                 <li class="vk-testimonial-item-1">
                                     <div class="vk-img-frame">
-                                        <img src="images/testimonial/testimonial-4.jpeg" alt="" />
+                                        <img src="images/testimonial/testimonial-4.webp" alt="" />
                                     </div>
                                 </li>
 
                                 <li class="vk-testimonial-item-1">
                                     <div class="vk-img-frame">
-                                        <img src="images/testimonial/testimonial-5.png" alt="" />
+                                        <img src="images/testimonial/testimonial-5.webp" alt="" />
                                     </div>
                                 </li>
                             </ul>
