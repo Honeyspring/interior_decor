@@ -79,7 +79,7 @@
                                                 both commercial and residential spaces
                                             </p>
                                             <p>
-                                                Bracebrownn Innovations Limited popularly known as
+                                                BraceBrownn Innovations Limited popularly known as
                                                 Bracebrownn; is an interior design company based in
                                                 Lagos Nigeria that specializes in interior and
                                                 exterior services for both commercial and residential

@@ -92,8 +92,39 @@
                     <!-- Grid row -->
 
 
-                    <!-- The four columns -->
+                    <!-- The columns -->
                     <div class="row" data-layout="masonry">
+
+                        <div class="col-md-3  col-xs-6 column data image living-room" data-filter="data image living-room" data-layout="masonry-item">
+                            <img src="images/portfolio/masonry/22.jpg" alt="Living Room" style="width:100%" onclick="modals(this);">
+                        </div>
+                        <div class="col-md-3  col-xs-6 column data image bed-room" data-filter="data image bed-room" data-layout="masonry-item">
+                            <img src="images/portfolio/masonry/29.jpg" alt="Bed Room" style="width:100%" onclick="modals(this);">
+                        </div>
+                        <div class="col-md-3  col-xs-6 column data image office" data-filter="data image office" data-layout="masonry-item">
+                            <img src="images/portfolio/masonry/28.jpg" alt="Office" style="width:100%" onclick="modals(this);">
+                        </div>
+                        <div class="col-md-3  col-xs-6 column data image bed-room" data-filter="data image bed-room" data-layout="masonry-item">
+                            <img src="images/portfolio/masonry/30.jpg" alt="Bedroom" style="width:100%" onclick="modals(this);">
+                        </div>
+                        <div class="col-md-3  col-xs-6 column data image living-room" data-filter="data image living-room" data-layout="masonry-item">
+                            <img src="images/portfolio/masonry/31.jpg" alt="Living Room" style="width:100%" onclick="modals(this);">
+                        </div>
+
+
+                        <div class="col-md-3  col-xs-6 column data image living-room" data-filter="data image living-room" data-layout="masonry-item">
+                            <img src="images/portfolio/masonry/32.jpg" alt="Living Room" style="width:100%" onclick="modals(this);">
+                        </div>
+
+                        <div class="col-md-3  col-xs-6 column data image bed-room" data-filter="data image bed-room" data-layout="masonry-item">
+                            <img src="images/portfolio/masonry/34.jpg" alt="Bed Room" style="width:100%" onclick="modals(this);">
+                        </div>
+                        <div class="col-md-3  col-xs-6 column data image living-room" data-filter="data image living-room" data-layout="masonry-item">
+                            <img src="images/portfolio/masonry/35.jpg" alt="Living Room" style="width:100%" onclick="modals(this);">
+                        </div>
+                        <div class="col-md-3  col-xs-6 column data image office" data-filter="data image office" data-layout="masonry-item">
+                            <img src="images/portfolio/masonry/36.jpg" alt="Office" style="width:100%" onclick="modals(this);">
+                        </div>
                         <div class="col-md-3  col-xs-6 column data image bed-room" data-filter="data image bed-room" data-layout="masonry-item">
                             <img src="images/portfolio/masonry/1.jpg" alt="Living Room" style="width:100%" onclick="modals(this);">
                         </div>
