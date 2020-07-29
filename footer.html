@@ -36,13 +36,6 @@
           ><a href="about.php">About Us</a>
         </li>
       </ul>
-      <span>
-        <p >
-          <i class="vk-text-color-yellow-1" id="date">&copy; &nbsp;</i>
-          <a href="index.php">Bracebrownn Innovations Limited | Developed by Xown Solutions Limited</a>
-        
-        </p></span
-      >
     </div>
     <div class="col-md-4">
       <div class="text-center">
@@ -68,9 +61,20 @@
         </ul>
       </div>
     </div>
+    <div class="col-12 col-md-12 col-lg-12 col-sm-12 col-xl-12 text-center">
+      <span>
+        <p>
+          <i class="vk-text-color-yellow-1" id="date">&copy; &nbsp;</i>
+          <a href="index.php">Bracebrownn Innovations Limited</a> |
+          <a href="https://xownsolutions.com" class="vk-text-color-yellow-1">
+            Developed by Xown Solutions Limited
+          </a>
+        </p></span
+      >
+    </div>
   </div>
+  <script>
+    let date = document.getElementById("date");
+    date.innerHTML += new Date().getFullYear();
+  </script>
 </div>
-<script>
-  let date = document.getElementById("date");
-  date.innerHTML += new Date().getFullYear();
-</script>
