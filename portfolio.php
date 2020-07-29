@@ -6,23 +6,25 @@
 <head>
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0" />
     <meta charset="UTF-8" />
-    <title>Bracebrownn</title>
-    <link rel='icon' href='images/logo/logo.png' type='image/x-icon' />
-    <link href="plugin/fonts/transfonter/fonts.css" rel="stylesheet" />
-    <link href="plugin/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet" />
-    <link href="plugin/fonts/platicon/font/flaticon.css" rel="stylesheet" />
-    <link href="plugin/fonts/themify/themify-icons.css" rel="stylesheet" />
-    <link href="plugin/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
-    <link href="plugin/animsition/css/animsition.min.css" rel="stylesheet" />
-    <link href="plugin/lightbox/css/lightbox.min.css" rel="stylesheet" />
-    <link href="css/animate.css" rel="stylesheet" />
-    <link href="plugin/slick/slick.css" rel="stylesheet" />
-    <link href="plugin/player/mediaelementplayer.css" rel="stylesheet" />
-    <link href="plugin/jquery-ui/jquery-ui.css" rel="stylesheet" />
+    <title>Bracebrownn </title>
+    <link rel='icon' href='#' type='image/x-icon' />
+    <!--logo-->
 
-    <link href="css/style.css" rel="stylesheet" />
-    <link href="css/customize.css" rel="stylesheet" />
-    <script src="plugin/modernizr.js"></script>
+    <link href="plugin/fonts/transfonter/fonts.css?" rel="stylesheet" />
+    <link href="plugin/fonts/font-awesome/css/font-awesome.min.css?" rel="stylesheet" />
+    <link href="plugin/fonts/platicon/font/flaticon.css?" rel="stylesheet" />
+    <link href="plugin/fonts/themify/themify-icons.css?" rel="stylesheet" />
+    <link href="plugin/bootstrap/css/bootstrap.min.css?" rel="stylesheet" />
+    <link href="plugin/animsition/css/animsition.min.css?" rel="stylesheet" />
+    <link href="plugin/lightbox/css/lightbox.min.css?" rel="stylesheet" />
+    <link href="css/animate.css?" rel="stylesheet" />
+    <link href="plugin/slick/slick.css?" rel="stylesheet" />
+    <link href="plugin/player/mediaelementplayer.css?" rel="stylesheet" />
+    <link href="plugin/jquery-ui/jquery-ui.css?" rel="stylesheet" />
+    <link href="css/gallery.css?" rel="stylesheet" />
+    <link href="css/style.css?" rel="stylesheet" />
+    <link href="css/customize.css?" rel="stylesheet" />
+    <script src="plugin/modernizr.js?"></script>
 
 
 
@@ -228,13 +230,13 @@
     <!--./main-wrapper-->
 
     <!-- BEGIN: SCRIPT -->
-    <script src="plugin/jquery/jquery-2.0.2.min.js"></script>
+    <script src="plugin/jquery/jquery-2.0.2.min.js?"></script>
 
-    <script src="plugin/plugin.min.js"></script>
-    <script src="./js/main.js"></script>
+    <script src="plugin/plugin.min.js?"></script>
+    <script src="./js/main.js?"></script>
 
-    <script src="plugin/main.js"></script>
-    <script src="plugin/custom.js"></script>
+    <script src="plugin/main.js?"></script>
+    <script src="plugin/custom.js?"></script>
     <!-- END: SCRIPT -->
 </body>
 
