@@ -41,7 +41,7 @@ footer p,
 }
 .vk-footer-style-1 {
   background-image: url("../images/background/footer.jpg");
-  text-align: center;
+  
 }
 .vk-navbar {
   margin-top: 30px;
@@ -7581,14 +7581,19 @@ city .vk-text-capitalize {
   color: #434343;
   padding-top: 10px;
 }
+
 @media (min-width: 768px) {
   .checkout-login .login-form .lost-password {
     float: left;
     width: 50%;
     padding-left: 15px;
   }
+  .vk-footer-style-1{
+    text-align:left;
+  }
 }
 
+  
 .vk-coupon-code-checkout {
   border: solid 2px #f0f0f0;
 }
@@ -7645,6 +7650,7 @@ city .vk-text-capitalize {
     padding-right: 10px;
     margin-bottom: 0;
   }
+  
 }
 @media (min-width: 768px) {
   .vk-filler-create-account .filler-form .form-group + .form-group {
@@ -8166,6 +8172,12 @@ city .vk-text-capitalize {
   vertical-align: top;
   font-size: 16px;
 }
+@media (max-width:600px){
+  .vk-footer-style-1 {
+    text-align: center;
+  }
+}
+
 .vk-list-social-footer li a {
   padding: 0 10px;
 }
@@ -8181,9 +8193,7 @@ city .vk-text-capitalize {
   vertical-align: top;
 }
 
-.vk-footer-style-1 {
-  text-align: center;
-}
+
 .vk-footer-style-1 .content {
   position: relative;
   display: inline-block;
@@ -8216,6 +8226,7 @@ city .vk-text-capitalize {
   .vk-footer-style-1 .logo-footer {
     position: absolute;
     margin-bottom: 0px;
+    text-align:left;
   }
 }
 .vk-footer-style-1 .powerby {
