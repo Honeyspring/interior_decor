@@ -66,7 +66,7 @@
                                     <div class="vk-image">
                                         <div class="vk-img-frame ">
 
-                                            <img src="images/services/sv1/1.jpg" alt="" />
+                                            <img src="images/portfolio/living.webp" alt="" />
 
                                         </div>
                                     </div>
@@ -106,7 +106,7 @@
                                     <div class="vk-image">
                                         <div class="vk-img-frame ">
 
-                                            <img src="images/services/sv1/2.jpg" alt="" />
+                                            <img src="images/portfolio/bedroom.webp" alt="" />
 
                                         </div>
                                     </div>
@@ -153,7 +153,7 @@
                                     <div class="vk-image">
                                         <div class="vk-img-frame ">
 
-                                            <img src="images/services/sv1/3.jpg" alt="" />
+                                            <img src="images/portfolio/kitchen.jpg" alt="" />
 
                                         </div>
                                     </div>
@@ -197,7 +197,7 @@
                                     <div class="vk-image">
                                         <div class="vk-img-frame ">
 
-                                            <img src="images/services/sv1/4.jpg" alt="" />
+                                            <img src="images/portfolio/office.jpg" alt="" />
 
                                         </div>
                                     </div>
