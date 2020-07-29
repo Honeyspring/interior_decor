@@ -29,7 +29,7 @@
 </head>
 
 <body>
-    <div class="animsition main-wrapper">
+    <div class=" main-wrapper">
 
         <?php include('./header.html') ?>
         <section class="vk-content ">

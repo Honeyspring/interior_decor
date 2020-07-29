@@ -29,8 +29,8 @@
 </head>
 
 <body>
-    <div class="animsition main-wrapper">
-
+    <div class=" main-wrapper">
+        <!--animsition-->
         <!--headercontent-->
         <?php include('./header.html') ?>
         <!--./vk-header-->
