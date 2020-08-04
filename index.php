@@ -7,23 +7,14 @@
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0" />
     <meta charset="UTF-8" />
     <title>Bracebrownn </title>
-    <link rel='icon' href='images/logo/logo.jpeg' type='image/x-icon' />
-    <link href="plugin/fonts/transfonter/fonts.css?" rel="stylesheet" />
-    <link href="plugin/fonts/font-awesome/css/font-awesome.min.css?" rel="stylesheet" />
-    <link href="plugin/fonts/platicon/font/flaticon.css?" rel="stylesheet" />
-    <link href="plugin/fonts/themify/themify-icons.css?" rel="stylesheet" />
-    <link href="plugin/bootstrap/css/bootstrap.min.css?" rel="stylesheet" />
-    <link href="plugin/animsition/css/animsition.min.css?" rel="stylesheet" />
-    <link href="plugin/lightbox/css/lightbox.min.css" rel="stylesheet" />
-    <link href="css/animate.css?" rel="stylesheet" />
-    <link href="plugin/slick/slick.css?" rel="stylesheet" />
-    <link href="plugin/player/mediaelementplayer.css?" rel="stylesheet" />
-    <link href="plugin/jquery-ui/jquery-ui.css?" rel="stylesheet" />
 
-    <link href="css/style.css?" rel="stylesheet" />
-    <link href="css/customize.css?" rel="stylesheet" />
 
-    <script src="plugin/modernizr.js?"></script>
+    <link href="css/animate.min.css?" rel="stylesheet" />
+    <link href="plugin/main.min.css?" rel="stylesheet" />
+
+    <link href="css/style.min.css?" rel="stylesheet" />
+
+
 
 
 
@@ -39,7 +30,7 @@
                 <div class="vk-home-slider vk-slider vk-slider-dots-style-2" data-slider-name="home-slider">
                     <div class="vk-home-slider-item">
                         <div class="vk-img-frame">
-                            <div class="vk-background-overlay vk-background-black _90"></div>
+                            <div class="vk-background-overlay vk-background-black _70"></div>
                             <img src="images/home/banner/banner9.webp" style="height:640px" alt="" />
                         </div>
 
@@ -61,7 +52,7 @@
                     </div>
                     <div class="vk-home-slider-item">
                         <div class="vk-img-frame">
-                            <div class="vk-background-overlay vk-background-black _90"></div>
+                            <div class="vk-background-overlay vk-background-black _70"></div>
                             <img src="images/home/banner/banner8.webp" style="height:640px" alt="" />
                         </div>
 
@@ -83,7 +74,7 @@
                     </div>
                     <div class="vk-home-slider-item">
                         <div class="vk-img-frame">
-                            <div class="vk-background-overlay vk-background-black _90"></div>
+                            <div class="vk-background-overlay vk-background-black _70"></div>
                             <img src="images/home/banner/banner7.webp" style="height:640px" alt="" />
                         </div>
 
@@ -105,7 +96,7 @@
                     </div>
                     <div class="vk-home-slider-item">
                         <div class="vk-img-frame">
-                            <div class="vk-background-overlay vk-background-black _90"></div>
+                            <div class="vk-background-overlay vk-background-black _70"></div>
                             <img src="images/home/banner/banner6.webp" style="height:640px" alt="" />
                         </div>
 
@@ -128,7 +119,7 @@
                     <div class="vk-home-slider-item">
 
                         <div class="vk-img-frame">
-                            <div class="vk-background-overlay vk-background-black _90"></div>
+                            <div class="vk-background-overlay vk-background-black _70"></div>
                             <img src="images/home/banner/banner1.webp" style="height:640px" alt="" />
                         </div>
 
@@ -151,8 +142,8 @@
                     </div>
                     <div class="vk-home-slider-item">
                         <div class="vk-img-frame">
-                            <div class="vk-background-overlay vk-background-black _90"></div>
-                            <img src="images/home/banner/banner2.webp" style="height:640px" alt="" />
+                            <div class="vk-background-overlay vk-background-black _70"></div>
+                            <img src="images/portfolio/living (2).webp" style="height:640px" alt="" />
                         </div>
 
                         <div class="vk-slide-main-content">
@@ -173,8 +164,8 @@
                     </div>
                     <div class="vk-home-slider-item">
                         <div class="vk-img-frame">
-                            <div class="vk-background-overlay vk-background-black _90"></div>
-                            <img src="images/home/banner/banner3.webp" style="height:640px" alt="" />
+                            <div class="vk-background-overlay vk-background-black _70"></div>
+                            <img src="images/portfolio/living (2).webp" style="height:640px" alt="" />
                         </div>
 
                         <div class="vk-slide-main-content">
@@ -195,7 +186,7 @@
                     </div>
                     <div class="vk-home-slider-item">
                         <div class="vk-img-frame">
-                            <div class="vk-background-overlay vk-background-black _90"></div>
+                            <div class="vk-background-overlay vk-background-black _70"></div>
                             <img src="images/home/banner/banner4.webp" style="height:640px" alt="" />
                         </div>
 
@@ -217,7 +208,7 @@
                     </div>
                     <div class="vk-home-slider-item">
                         <div class="vk-img-frame">
-                            <div class="vk-background-overlay vk-background-black _90"></div>
+                            <div class="vk-background-overlay vk-background-black _70"></div>
                             <img src="images/home/banner/banner5.webp" style="height:640px" alt="" />
                         </div>
 
@@ -506,7 +497,7 @@
                         <li class="col-sm-6 col-md-3 ">
                             <div class="vk-list-project-item">
                                 <div class="vk-img-frame proj">
-                                    <img src="images/portfolio/office.jpg" alt="" />
+                                    <img src="images/portfolio/office.webp" alt="" />
                                 </div>
 
                                 <div class="vk-hover">
@@ -757,14 +748,12 @@
     <!--./main-wrapper-->
 
     <!-- BEGIN: SCRIPT -->
+    <script src="plugin/jquery/jquery-2.0.2.min.js"></script>
 
-    <script src="plugin/jquery/jquery-2.0.2.min.js?"></script>
 
+    <script src="plugin/plugin.min.js"></script>
 
-    <script src="plugin/plugin.min.js?"></script>
-
-    <script src="plugin/main.js?"></script>
-    <script src="plugin/custom.js?"></script>
+    <script src="plugin/main.min.js"></script>
     <!-- END: SCRIPT -->
 </body>
 

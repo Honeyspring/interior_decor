@@ -7,22 +7,15 @@
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0" />
     <meta charset="UTF-8" />
     <title>Bracebrownn</title>
-    <link rel='icon' href='images/logo/logo.png' type='image/x-icon' />
-    <link href="plugin/fonts/transfonter/fonts.css?" rel="stylesheet" />
-    <link href="plugin/fonts/font-awesome/css/font-awesome.min.css?" rel="stylesheet" />
-    <link href="plugin/fonts/platicon/font/flaticon.css?" rel="stylesheet" />
-    <link href="plugin/fonts/themify/themify-icons.css?" rel="stylesheet" />
-    <link href="plugin/bootstrap/css/bootstrap.min.css?" rel="stylesheet" />
-    <link href="plugin/animsition/css/animsition.min.css?" rel="stylesheet" />
-    <link href="plugin/lightbox/css/lightbox.min.css?" rel="stylesheet" />
-    <link href="css/animate.css?" rel="stylesheet" />
-    <link href="plugin/slick/slick.css?" rel="stylesheet" />
-    <link href="plugin/player/mediaelementplayer.css?" rel="stylesheet" />
-    <link href="plugin/jquery-ui/jquery-ui.css?" rel="stylesheet" />
+    <link href="css/animate.min.css?" rel="stylesheet" />
 
-    <link href="css/style.css?" rel="stylesheet" />
-    <link href="css/customize.css?" rel="stylesheet" />
-    <script src="plugin/modernizr.js?"></script>
+    <link href="plugin/main.min.css?" rel="stylesheet" />
+
+
+    <link href="css/style.min.css?" rel="stylesheet" />
+
+
+
 
 
 
@@ -196,7 +189,7 @@
                             <div class="col-md-4 col-sm-6">
                                 <div class="vk-iconbox vk-iconbox-center">
                                     <div class="vk-icon">
-                                        <img src="images/icon/iconbox/icon1.png" alt="" />
+                                        <img src="images/icon/icon1.png" alt="" />
                                     </div>
                                     <div class="iconbox-content">
                                         <h5 class="vk-title">Living Room</h5>
@@ -211,7 +204,7 @@
                             <div class="col-md-4 col-sm-6">
                                 <div class="vk-iconbox vk-iconbox-center">
                                     <div class="vk-icon">
-                                        <img src="images/icon/iconbox/icon2.png" alt="" />
+                                        <img src="images/icon/icon2.png" alt="" />
                                     </div>
                                     <div class="iconbox-content">
                                         <h5 class="vk-title">Bed Room</h5>
@@ -225,7 +218,7 @@
                             <div class="col-md-4 col-sm-6">
                                 <div class="vk-iconbox vk-iconbox-center">
                                     <div class="vk-icon">
-                                        <img src="images/icon/iconbox/icon3.png" alt="" />
+                                        <img src="images/icon/icon3.png" alt="" />
                                     </div>
                                     <div class="iconbox-content">
                                         <h5 class="vk-title">Kitchen</h5>
@@ -240,7 +233,7 @@
                             <div class="col-md-4 col-sm-6">
                                 <div class="vk-iconbox vk-iconbox-center">
                                     <div class="vk-icon">
-                                        <img src="images/icon/iconbox/icon4.png" alt="" />
+                                        <img src="images/icon/icon4.png" alt="" />
                                     </div>
                                     <div class="iconbox-content">
                                         <h5 class="vk-title">Office</h5>
@@ -256,7 +249,7 @@
                             <div class="col-md-4 col-sm-6">
                                 <div class="vk-iconbox vk-iconbox-center">
                                     <div class="vk-icon">
-                                        <img src="images/icon/iconbox/icon5.png" alt="" />
+                                        <img src="images/icon/icon5.png" alt="" />
                                     </div>
                                     <div class="iconbox-content">
                                         <h5 class="vk-title">Dining</h5>
@@ -271,7 +264,7 @@
                             <div class="col-md-4 col-sm-6">
                                 <div class="vk-iconbox vk-iconbox-center">
                                     <div class="vk-icon">
-                                        <img src="images/icon/iconbox/icon6.png" alt="" />
+                                        <img src="images/icon/icon6.png" alt="" />
                                     </div>
                                     <div class="iconbox-content">
                                         <h5 class="vk-title">Sofa</h5>
@@ -359,12 +352,12 @@
     <!--./main-wrapper-->
 
     <!-- BEGIN: SCRIPT -->
-    <script src="plugin/jquery/jquery-2.0.2.min.js?"></script>
+    <script src="plugin/jquery/jquery-2.0.2.min.js"></script>
 
-    <script src="plugin/plugin.min.js?"></script>
 
-    <script src="plugin/main.js?"></script>
-    <script src="plugin/custom.js?"></script>
+    <script src="plugin/plugin.min.js"></script>
+
+    <script src="plugin/main.min.js"></script>
     <!-- END: SCRIPT -->
 </body>
 

@@ -7,23 +7,16 @@
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0" />
     <meta charset="UTF-8" />
     <title>Bracebrownn</title>
-    <link rel='icon' href='images/logo/logo.jpeg' type='image/x-icon' />
-    <link href="plugin/fonts/transfonter/fonts.css?" rel="stylesheet" />
-    <link href="plugin/fonts/font-awesome/css/font-awesome.min.css?" rel="stylesheet" />
-    <link href="plugin/fonts/platicon/font/flaticon.css?" rel="stylesheet" />
-    <link href="plugin/fonts/themify/themify-icons.css?" rel="stylesheet" />
-    <link href="plugin/bootstrap/css/bootstrap.min.css?" rel="stylesheet" />
-    <link href="plugin/animsition/css/animsition.min.css?" rel="stylesheet" />
-    <link href="plugin/lightbox/css/lightbox.min.css?" rel="stylesheet" />
-    <link href="css/animate.css?" rel="stylesheet" />
-    <link href="plugin/slick/slick.css?" rel="stylesheet" />
-    <link href="plugin/player/mediaelementplayer.css?" rel="stylesheet" />
-    <link href="plugin/jquery-ui/jquery-ui.css?" rel="stylesheet" />
-    <link href="../../vjs.zencdn.net/6.1.0/video-js.css?" rel="stylesheet" />
-    <link href="css/style.css?" rel="stylesheet" />
-    <link href="css/customize.css?" rel="stylesheet" />
-    <script src="plugin/modernizr.js?"></script>
-    <script src="../../vjs.zencdn.net/ie8/1.1.2/videojs-ie8.min.js?"></script>
+    <link href="css/animate.min.css?" rel="stylesheet" />
+
+    <link href="plugin/main.min.css?" rel="stylesheet" />
+
+
+    <link href="css/style.min.css?" rel="stylesheet" />
+
+
+
+
 
 
 </head>
@@ -34,7 +27,7 @@
         <?php include('./header.html') ?>
         <section class="vk-content ">
             <div class="vk-banner vk-background-image-1">
-                <div class="vk-background-overlay vk-background-black _80"></div>
+                <div class="vk-background-overlay vk-background-black _70"></div>
                 <div class="container ">
                     <div class="vk-banner-wrapper">
                         <div class="page-heading text-center">
@@ -146,42 +139,39 @@
     <!--./main-wrapper-->
 
     <!-- BEGIN: SCRIPT -->
-    <script src="plugin/jquery/jquery-2.0.2.min.js?"></script>
-    <script src="../../vjs.zencdn.net/6.1.0/video.js?"></script>
-    <script src="plugin/plugin.min.js?"></script>
+    <script src="plugin/jquery/jquery-2.0.2.min.js"></script>
 
-    <script src="plugin/main.js?"></script>
-    <script src="plugin/custom.js?"></script>
+
+    <script src="plugin/plugin.min.js"></script>
+
+    <script src="plugin/main.min.js"></script>
     <script src='https://www.google.com/recaptcha/api.js'></script>
     <!-- END: SCRIPT -->
-    <?php if(!isset($_COOKIE['result'])) {
-
+    <?php if (!isset($_COOKIE['result'])) {
     } else {
-        if($_COOKIE['result'] == "The captcha field must be checked"){?>
+        if ($_COOKIE['result'] == "The captcha field must be checked") { ?>
             <script type='text/javascript'>
                 alert('The captcha field must be checked');
                 $('#submitInput').after('<div class="mb-4" style="color: red; text-align: center"><h3 style="color: red; text-align: center">The captcha field must be checked</h3></div>');
             </script>
-        <?php  }
-        elseif ($_COOKIE['result'] == "All field must be filled") {?>
+        <?php  } elseif ($_COOKIE['result'] == "All field must be filled") { ?>
             <script type='text/javascript'>
                 alert('All field must be filled');
                 $('#submitInput').after('<div class="mb-4" style="color: red; text-align: center"><h3 style="color: red; text-align: center">All field must be filled</h3></div>');
             </script>
-        <?php }
-        elseif ($_COOKIE['result'] == "Form submitted Successfully") {?>
+        <?php } elseif ($_COOKIE['result'] == "Form submitted Successfully") { ?>
             <script type='text/javascript'>
                 alert('Form submitted successfully');
                 $('#submitInput').after('<div class="mb-4" style="color: green; text-align: center"><h3 style="color: green; text-align: center">Form submitted successfully</h3></div>');
             </script>
-        <?php }
-        else{
+        <?php } else {
         ?>
             <script type='text/javascript'>
                 alert('Error Submitting the form');
                 $('#submitInput').after('<div class="mb-4" style="color: red; text-align: center"><h3 style="color: red; text-align: center">Error Submitting the form</h3></div>');
             </script>
-        <?php }
+    <?php }
     } ?>
 </body>
+
 </html>
