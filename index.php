@@ -21,79 +21,13 @@
 </head>
 
 <body>
-    <div class=" main-wrapper">
+    <div class="animsition main-wrapper">
 
         <?php include('./header.html') ?>
         <section class="vk-content">
             <div class="vk-home default">
 
                 <div class="vk-home-slider vk-slider vk-slider-dots-style-2" data-slider-name="home-slider">
-                    <div class="vk-home-slider-item">
-                        <div class="vk-img-frame">
-                            <div class="vk-background-overlay vk-background-black _70"></div>
-                            <img src="images/home/banner/banner9.webp" style="height:640px" alt="" />
-                        </div>
-
-                        <div class="vk-slide-main-content">
-                            <div class="container">
-                                <div class="vk-inner-container">
-                                    <div class="vk-inner-content">
-                                        <div class="vk-main-heading">
-                                            You Can Bet On Us
-                                        </div>
-                                        <div class="vk-sub-heading">Interior Design</div>
-                                    </div>
-                                </div>
-                                <!--./vk-inner-container-->
-                            </div>
-                            <!--./container-->
-                        </div>
-                        <!--./vk-slide-main-content-->
-                    </div>
-                    <div class="vk-home-slider-item">
-                        <div class="vk-img-frame">
-                            <div class="vk-background-overlay vk-background-black _70"></div>
-                            <img src="images/home/banner/banner8.webp" style="height:640px" alt="" />
-                        </div>
-
-                        <div class="vk-slide-main-content">
-                            <div class="container">
-                                <div class="vk-inner-container">
-                                    <div class="vk-inner-content">
-                                        <div class="vk-main-heading">
-                                            You Can Bet On Us
-                                        </div>
-                                        <div class="vk-sub-heading">Interior Design</div>
-                                    </div>
-                                </div>
-                                <!--./vk-inner-container-->
-                            </div>
-                            <!--./container-->
-                        </div>
-                        <!--./vk-slide-main-content-->
-                    </div>
-                    <div class="vk-home-slider-item">
-                        <div class="vk-img-frame">
-                            <div class="vk-background-overlay vk-background-black _70"></div>
-                            <img src="images/home/banner/banner7.webp" style="height:640px" alt="" />
-                        </div>
-
-                        <div class="vk-slide-main-content">
-                            <div class="container">
-                                <div class="vk-inner-container">
-                                    <div class="vk-inner-content">
-                                        <div class="vk-main-heading">
-                                            We Welcome You Onboard
-                                        </div>
-                                        <div class="vk-sub-heading">Interior Design</div>
-                                    </div>
-                                </div>
-                                <!--./vk-inner-container-->
-                            </div>
-                            <!--./container-->
-                        </div>
-                        <!--./vk-slide-main-content-->
-                    </div>
                     <div class="vk-home-slider-item">
                         <div class="vk-img-frame">
                             <div class="vk-background-overlay vk-background-black _70"></div>
@@ -105,99 +39,12 @@
                                 <div class="vk-inner-container">
                                     <div class="vk-inner-content">
                                         <div class="vk-main-heading">
-                                            Making a differences
+                                            Welcome You On Board
                                         </div>
-                                        <div class="vk-sub-heading">Interior Design</div>
-                                    </div>
-                                </div>
-                                <!--./vk-inner-container-->
-                            </div>
-                            <!--./container-->
-                        </div>
-                        <!--./vk-slide-main-content-->
-                    </div>
-                    <div class="vk-home-slider-item">
-
-                        <div class="vk-img-frame">
-                            <div class="vk-background-overlay vk-background-black _70"></div>
-                            <img src="images/home/banner/banner1.webp" style="height:640px" alt="" />
-                        </div>
-
-                        <div class="vk-slide-main-content">
-                            <div class="container">
-                                <div class="vk-inner-container">
-                                    <div class="vk-inner-content">
-
-                                        <div class="vk-main-heading">
-                                            Every Touch Sparkles
+                                        <div class="vk-sub-heading">Interior Design <div class=" vk-buttons ">
+                                                <a href=" portfolio.php" class="vk-btn vk-btn-view-project">TAKE A TOUR </i></a>
+                                            </div>
                                         </div>
-                                        <div class="vk-sub-heading">Interior Design</div>
-                                    </div>
-                                </div>
-                                <!--./vk-inner-container-->
-                            </div>
-                            <!--./container-->
-                        </div>
-                        <!--./vk-slide-main-content-->
-                    </div>
-                    <div class="vk-home-slider-item">
-                        <div class="vk-img-frame">
-                            <div class="vk-background-overlay vk-background-black _70"></div>
-                            <img src="images/portfolio/living (2).webp" style="height:640px" alt="" />
-                        </div>
-
-                        <div class="vk-slide-main-content">
-                            <div class="container">
-                                <div class="vk-inner-container">
-                                    <div class="vk-inner-content">
-                                        <div class="vk-main-heading">
-                                            Let Us Make The differences
-                                        </div>
-                                        <div class="vk-sub-heading">Interior Design</div>
-                                    </div>
-                                </div>
-                                <!--./vk-inner-container-->
-                            </div>
-                            <!--./container-->
-                        </div>
-                        <!--./vk-slide-main-content-->
-                    </div>
-                    <div class="vk-home-slider-item">
-                        <div class="vk-img-frame">
-                            <div class="vk-background-overlay vk-background-black _70"></div>
-                            <img src="images/portfolio/living (2).webp" style="height:640px" alt="" />
-                        </div>
-
-                        <div class="vk-slide-main-content">
-                            <div class="container">
-                                <div class="vk-inner-container">
-                                    <div class="vk-inner-content">
-                                        <div class="vk-main-heading">
-                                            You Can Bet On Us
-                                        </div>
-                                        <div class="vk-sub-heading">Interior Design</div>
-                                    </div>
-                                </div>
-                                <!--./vk-inner-container-->
-                            </div>
-                            <!--./container-->
-                        </div>
-                        <!--./vk-slide-main-content-->
-                    </div>
-                    <div class="vk-home-slider-item">
-                        <div class="vk-img-frame">
-                            <div class="vk-background-overlay vk-background-black _70"></div>
-                            <img src="images/home/banner/banner4.webp" style="height:640px" alt="" />
-                        </div>
-
-                        <div class="vk-slide-main-content">
-                            <div class="container">
-                                <div class="vk-inner-container">
-                                    <div class="vk-inner-content">
-                                        <div class="vk-main-heading">
-                                            We Welcome You Onboard
-                                        </div>
-                                        <div class="vk-sub-heading">Interior Design</div>
                                     </div>
                                 </div>
                                 <!--./vk-inner-container-->
@@ -217,9 +64,191 @@
                                 <div class="vk-inner-container">
                                     <div class="vk-inner-content">
                                         <div class="vk-main-heading">
-                                            Making a differences
+                                            Every Touch Sparkles
+
                                         </div>
-                                        <div class="vk-sub-heading">Interior Design</div>
+                                        <div class="vk-sub-heading">Interior Design
+                                            <div class=" vk-buttons ">
+                                                <a href=" portfolio.php" class="vk-btn vk-btn-view-project">TAKE A TOUR </i></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!--./vk-inner-container-->
+                            </div>
+                            <!--./container-->
+                        </div>
+                        <!--./vk-slide-main-content-->
+                    </div>
+                    <div class="vk-home-slider-item">
+                        <div class="vk-img-frame">
+                            <div class="vk-background-overlay vk-background-black _70"></div>
+                            <img src="images/home/banner/banner4.webp" style="height:640px" alt="" />
+                        </div>
+
+                        <div class="vk-slide-main-content">
+                            <div class="container">
+                                <div class="vk-inner-container">
+                                    <div class="vk-inner-content">
+                                        <div class="vk-main-heading">
+                                            We Are Space Manager
+                                        </div>
+                                        <div class="vk-sub-heading">Interior Design <div class=" vk-buttons ">
+                                                <a href=" portfolio.php" class="vk-btn vk-btn-view-project">TAKE A TOUR </i></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!--./vk-inner-container-->
+                            </div>
+                            <!--./container-->
+                        </div>
+                        <!--./vk-slide-main-content-->
+                    </div>
+                    <div class="vk-home-slider-item">
+                        <div class="vk-img-frame">
+                            <div class="vk-background-overlay vk-background-black _70"></div>
+                            <img src="images/home/banner/banner3.webp" style="height:640px" alt="" />
+                        </div>
+
+                        <div class="vk-slide-main-content">
+                            <div class="container">
+                                <div class="vk-inner-container">
+                                    <div class="vk-inner-content">
+                                        <div class="vk-main-heading">
+                                            We Make The Difference
+                                        </div>
+                                        <div class="vk-sub-heading">Interior Design <div class=" vk-buttons ">
+                                                <a href=" portfolio.php" class="vk-btn vk-btn-view-project">TAKE A TOUR </i></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!--./vk-inner-container-->
+                            </div>
+                            <!--./container-->
+                        </div>
+                        <!--./vk-slide-main-content-->
+                    </div>
+                    <div class="vk-home-slider-item">
+
+                        <div class="vk-img-frame">
+                            <div class="vk-background-overlay vk-background-black _70"></div>
+                            <img src="images/home/banner/banner12.jpg" style="height:640px" alt="" />
+                        </div>
+
+                        <div class="vk-slide-main-content">
+                            <div class="container">
+                                <div class="vk-inner-container">
+                                    <div class="vk-inner-content">
+
+                                        <div class="vk-main-heading">
+                                            Your Space Our Priority
+                                        </div>
+                                        <div class="vk-sub-heading">Interior Design <div class=" vk-buttons ">
+                                                <a href=" portfolio.php" class="vk-btn vk-btn-view-project">TAKE A TOUR </i></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!--./vk-inner-container-->
+                            </div>
+                            <!--./container-->
+                        </div>
+                        <!--./vk-slide-main-content-->
+                    </div>
+                    <div class="vk-home-slider-item">
+                        <div class="vk-img-frame">
+                            <div class="vk-background-overlay vk-background-black _70"></div>
+                            <img src="images/portfolio/bedroom.jpg" style="height:640px" alt="" />
+                        </div>
+
+                        <div class="vk-slide-main-content">
+                            <div class="container">
+                                <div class="vk-inner-container">
+                                    <div class="vk-inner-content">
+                                        <div class="vk-main-heading">
+                                            Simplicity Is The New Luxury
+                                        </div>
+                                        <div class="vk-sub-heading">Interior Design <div class=" vk-buttons ">
+                                                <a href=" portfolio.php" class="vk-btn vk-btn-view-project">TAKE A TOUR </i></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!--./vk-inner-container-->
+                            </div>
+                            <!--./container-->
+                        </div>
+                        <!--./vk-slide-main-content-->
+                    </div>
+                    <div class="vk-home-slider-item">
+                        <div class="vk-img-frame">
+                            <div class="vk-background-overlay vk-background-black _70"></div>
+                            <img src="images/portfolio/living (2).webp" style="height:640px" alt="" />
+                        </div>
+
+                        <div class="vk-slide-main-content">
+                            <div class="container">
+                                <div class="vk-inner-container">
+                                    <div class="vk-inner-content">
+                                        <div class="vk-main-heading">
+                                            Simple And Elegant
+                                        </div>
+                                        <div class="vk-sub-heading">Interior Design <div class=" vk-buttons ">
+                                                <a href=" portfolio.php" class="vk-btn vk-btn-view-project">TAKE A TOUR </i></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!--./vk-inner-container-->
+                            </div>
+                            <!--./container-->
+                        </div>
+                        <!--./vk-slide-main-content-->
+                    </div>
+                    <div class="vk-home-slider-item">
+                        <div class="vk-img-frame">
+                            <div class="vk-background-overlay vk-background-black _70"></div>
+                            <img src="images/home/banner/banner10.jpg" style="height:640px" alt="" />
+                        </div>
+
+                        <div class="vk-slide-main-content">
+                            <div class="container">
+                                <div class="vk-inner-container">
+                                    <div class="vk-inner-content">
+                                        <div class="vk-main-heading">
+                                            You Can Bet On Us
+                                        </div>
+                                        <div class="vk-sub-heading">Interior Design <div class=" vk-buttons ">
+                                                <a href=" portfolio.php" class="vk-btn vk-btn-view-project">TAKE A TOUR </i></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!--./vk-inner-container-->
+                            </div>
+                            <!--./container-->
+                        </div>
+                        <!--./vk-slide-main-content-->
+                    </div>
+                    <div class="vk-home-slider-item">
+                        <div class="vk-img-frame">
+                            <div class="vk-background-overlay vk-background-black _70"></div>
+                            <img src="images/home/banner/banner11.jpg" style="height:640px" alt="" />
+                        </div>
+
+                        <div class="vk-slide-main-content">
+                            <div class="container">
+                                <div class="vk-inner-container">
+                                    <div class="vk-inner-content">
+                                        <div class="vk-main-heading">
+                                            Bringing The Best Out Of Your Space
+                                        </div>
+                                        <div class="vk-sub-heading">Interior Design <div class=" vk-buttons ">
+                                                <a href=" portfolio.php" class="vk-btn vk-btn-view-project">TAKE A TOUR </i></a>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                                 <!--./vk-inner-container-->
@@ -269,7 +298,7 @@
                                     <div class="vk-image">
                                         <div class="vk-img-frame">
                                             <a href="#" class="vk-img">
-                                                <img src="images/portfolio/living (2).webp" alt="" />
+                                                <img src="images/portfolio/living (3).webp" alt="" />
                                             </a>
                                         </div>
                                     </div>
@@ -281,458 +310,461 @@
                     </div>
                     <!--./container-->
                 </div>
-                <!--./vk-home-about-->
+                <!--./container-->
+            </div>
+            <!--./vk-home-about-->
 
-                <div class="vk-home-service">
-                    <div class="vk-section-background">
-                        <div class="vk-section-background-left vk-img-frame">
-                            <img src="images/portfolio/living (1).webp" alt="" />
-                        </div>
+            <div class="vk-home-service" style="background-image:url('images/home/default/background.webp')">
+                <div class="vk-section-background">
+                    <div class="vk-section-background-left vk-img-frame">
+                        <img src="images/portfolio/living (1).webp" alt="" />
                     </div>
-                    <!--./vk-service-background-->
-
-                    <div class="container">
-                        <div class="vk-grid-style-3-item">
-                            <div class="row">
-                                <div class="col-md-5"></div>
-                                <div class="col-md-7">
-                                    <div class="vk-inner-content">
-                                        <h6 class="vk-heading vk-heading-style-3">
-                                            OUR SERVICES
-                                        </h6>
-                                        <h4 class="vk-heading vk-heading-style-2 vk-heading-main inverse">
-                                            <span class="vk-line-box">
-                                                02<span class="vk-line"></span>
-                                            </span>
-                                            WE CREATE ARTS
-                                            <span class="vk-text-color-yellow-1">OF YOUR LIFE</span>
-                                        </h4>
-
-                                        <ul class="vk-list vk-list-service">
-                                            <li>
-                                                <div class="vk-icon vk-img-frame">
-                                                    <img src="images/home/icon/icon-2.png" alt="" />
-                                                </div>
-                                                <div class="vk-service-detail">
-                                                    <div class="vk-title">Living Room</div>
-                                                    <p class="vk-text">
-                                                        The Living room is your first impression and We know how to impress .
-                                                    </p>
-                                                </div>
-                                            </li>
-                                            <li>
-                                                <div class="vk-icon vk-img-frame">
-                                                    <img src="images/home/icon/icon-1-1.png" alt="" />
-                                                </div>
-                                                <div class="vk-service-detail">
-                                                    <div class="vk-title">Bedroom</div>
-                                                    <p class="vk-text">
-                                                        Beautiful designs for your bedrooms .
-                                                    </p>
-                                                </div>
-                                            </li>
-                                            <li>
-                                                <div class="vk-icon vk-img-frame">
-                                                    <img src="images/home/icon/icon-1.png" alt="" />
-                                                </div>
-                                                <div class="vk-service-detail">
-                                                    <div class="vk-title">Kitchen</div>
-                                                    <p class="vk-text">
-                                                        Kitchen is where the art of food is created so we give you the best.
-                                                    </p>
-                                                </div>
-                                            </li>
-                                            <li>
-                                                <div class="vk-icon vk-img-frame">
-                                                    <img src="images/home/icon/icon.png" alt="" />
-                                                </div>
-                                                <div class="vk-service-detail">
-                                                    <div class="vk-title">Office</div>
-                                                    <p class="vk-text">
-                                                        We ensure your office stands out and make your office show the boss you are.
-                                                    </p>
-                                                </div>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                    <!--./vk-inner-content-->
-                                </div>
-                            </div>
-                        </div>
-                        <!--./vk-grid-style-3-item-->
-                    </div>
-                    <!--./container-->
                 </div>
-                <!--./vk-home-service-->
+                <!--./vk-service-background-->
 
-                <div class="vk-home-portfolio">
-                    <div class="vk-heading-box text-center">
-                        <h6 class="vk-heading vk-heading-style-1 inverse">PORTFOLIO</h6>
-                        <h4 class="vk-heading vk-heading-style-2 vk-heading-main inverse-1">
-                            <span class="vk-line-box">
-                                03<span class="vk-line"></span>
-                            </span>
-                            COMPLETED <span class="vk-text-color-yellow-1">PROJECTS</span>
-                        </h4>
+                <div class="container">
+                    <div class="vk-grid-style-3-item">
+                        <div class="row">
+                            <div class="col-md-5"></div>
+                            <div class="col-md-7">
+                                <div class="vk-inner-content">
+                                    <h6 class="vk-heading vk-heading-style-3">
+                                        OUR SERVICES
+                                    </h6>
+                                    <h4 class="vk-heading vk-heading-style-2 vk-heading-main inverse">
+                                        <span class="vk-line-box">
+                                            02<span class="vk-line"></span>
+                                        </span>
+                                        WE CREATE ARTS
+                                        <span class="vk-text-color-yellow-1">OF YOUR LIFE</span>
+                                    </h4>
+
+                                    <ul class="vk-list vk-list-service">
+                                        <li>
+                                            <div class="vk-icon vk-img-frame">
+                                                <img src="images/home/icon/icon-2.png" alt="" />
+                                            </div>
+                                            <div class="vk-service-detail">
+                                                <div class="vk-title">Living Room</div>
+                                                <p class="vk-text">
+                                                    The Living room welcomes not your guest alone,but you anytime you walk in and so it must be intresting to
+                                                    impress you as well as your guests.
+                                                </p>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="vk-icon vk-img-frame">
+                                                <img src="images/home/icon/icon-1-1.png" alt="" />
+                                            </div>
+                                            <div class="vk-service-detail">
+                                                <div class="vk-title">Bedroom</div>
+                                                <p class="vk-text">
+                                                    The bedroom is where you retire to after a long day work,your bed should be comfortable and enjoyable.
+                                                </p>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="vk-icon vk-img-frame">
+                                                <img src="images/home/icon/icon-1.png" alt="" />
+                                            </div>
+                                            <div class="vk-service-detail">
+                                                <div class="vk-title">Kitchen</div>
+                                                <p class="vk-text">
+                                                    When kitchen is beautiful and functional,cooking becomes interesting and fun.
+                                                </p>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="vk-icon vk-img-frame">
+                                                <img src="images/home/icon/icon.png" alt="" />
+                                            </div>
+                                            <div class="vk-service-detail">
+                                                <div class="vk-title">Office</div>
+                                                <p class="vk-text">
+                                                    The beauty you see around you affects the quality of your work,we make your office space a productive environment with our design.
+                                                </p>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <!--./vk-inner-content-->
+                            </div>
+                        </div>
                     </div>
-                    <!--./vk-heading-box-->
+                    <!--./vk-grid-style-3-item-->
+                </div>
+                <!--./container-->
+            </div>
+            <!--./vk-home-service-->
 
-                    <ul class="vk-list vk-list-project  ">
-                        <li class="col-sm-6 col-md-3 ">
-                            <div class="vk-list-project-item">
-                                <div class="vk-img-frame proj">
-                                    <img src="images/portfolio/kitchen.jpg" alt="" />
-                                </div>
+            <div class="vk-home-portfolio">
+                <div class="vk-heading-box text-center">
+                    <h6 class="vk-heading vk-heading-style-1 inverse">PORTFOLIO</h6>
+                    <h4 class="vk-heading vk-heading-style-2 vk-heading-main inverse-1">
+                        <span class="vk-line-box">
+                            03<span class="vk-line"></span>
+                        </span>
+                        COMPLETED <span class="vk-text-color-yellow-1">PROJECTS</span>
+                    </h4>
+                </div>
+                <!--./vk-heading-box-->
 
-                                <div class="vk-hover">
-                                    <div class="wrapper">
-                                        <div class="inner-wrapper">
-                                            <div class="content">
-                                                <div class="vk-sub-title">kitchen</div>
-                                                <h4 class="vk-main-title">
-                                                    kitchen's furniture
-                                                </h4>
-                                                <div class="vk-list-meta">
+                <ul class="vk-list vk-list-project  ">
+                    <li class="col-sm-6 col-md-3 ">
+                        <div class="vk-list-project-item">
+                            <div class="vk-img-frame proj">
+                                <img src="images/portfolio/kitchen.jpg" alt="" />
+                            </div>
 
-                                                </div>
-                                                <!--./vk-list-meta-->
+                            <div class="vk-hover">
+                                <div class="wrapper">
+                                    <div class="inner-wrapper">
+                                        <div class="content">
+                                            <div class="vk-sub-title">kitchen</div>
+                                            <h4 class="vk-main-title">
+                                                kitchen's furniture
+                                            </h4>
+                                            <div class="vk-list-meta">
+
                                             </div>
-                                            <!--./content-->
+                                            <!--./vk-list-meta-->
                                         </div>
-                                        <!--./inner-wrapper-->
+                                        <!--./content-->
                                     </div>
-                                    <!--./wrapper-->
+                                    <!--./inner-wrapper-->
                                 </div>
-                                <!--./vk-hover-->
+                                <!--./wrapper-->
+                            </div>
+                            <!--./vk-hover-->
+                        </div>
+                    </li>
+
+                    <li class="col-sm-6 col-md-3 ">
+                        <div class="vk-list-project-item">
+                            <div class="vk-img-frame proj">
+                                <img src="images/portfolio/bedroom.webp" alt="" />
+                            </div>
+
+                            <div class="vk-hover">
+                                <div class="wrapper">
+                                    <div class="inner-wrapper">
+                                        <div class="content">
+                                            <div class="vk-sub-title">bedroom</div>
+                                            <h4 class="vk-main-title">
+                                                bedroom's furniture
+                                            </h4>
+                                            <div class="vk-list-meta">
+
+                                            </div>
+                                            <!--./vk-list-meta-->
+                                        </div>
+                                        <!--./content-->
+                                    </div>
+                                    <!--./inner-wrapper-->
+                                </div>
+                                <!--./wrapper-->
+                            </div>
+                            <!--./vk-hover-->
+                        </div>
+                    </li>
+
+                    <li class="col-sm-6 col-md-3 ">
+                        <div class="vk-list-project-item">
+                            <div class="vk-img-frame proj">
+                                <img src="images/portfolio/living (11).webp" alt="" />
+                            </div>
+
+                            <div class="vk-hover">
+                                <div class="wrapper">
+                                    <div class="inner-wrapper">
+                                        <div class="content">
+                                            <div class="vk-sub-title">living room</div>
+                                            <h4 class="vk-main-title">
+                                                living room furnite
+                                            </h4>
+                                            <div class="vk-list-meta">
+
+                                            </div>
+                                            <!--./vk-list-meta-->
+                                        </div>
+                                        <!--./content-->
+                                    </div>
+                                    <!--./inner-wrapper-->
+                                </div>
+                                <!--./wrapper-->
+                            </div>
+                            <!--./vk-hover-->
+                        </div>
+                    </li>
+
+                    <li class="col-sm-6 col-md-3 ">
+                        <div class="vk-list-project-item">
+                            <div class="vk-img-frame proj">
+                                <img src="images/portfolio/bedroom (6).webp" alt="" />
+                            </div>
+
+                            <div class="vk-hover">
+                                <div class="wrapper">
+                                    <div class="inner-wrapper">
+                                        <div class="content">
+                                            <div class="vk-sub-title">bedroom</div>
+                                            <h4 class="vk-main-title">
+                                                bedroom's furniture
+                                            </h4>
+                                            <div class="vk-list-meta">
+
+                                            </div>
+                                            <!--./vk-list-meta-->
+                                        </div>
+                                        <!--./content-->
+                                    </div>
+                                    <!--./inner-wrapper-->
+                                </div>
+                                <!--./wrapper-->
+                            </div>
+                            <!--./vk-hover-->
+                        </div>
+                    </li>
+
+                    <li class="col-sm-6 col-md-3 ">
+                        <div class="vk-list-project-item">
+                            <div class="vk-img-frame proj">
+                                <img src="images/portfolio/office.webp" alt="" />
+                            </div>
+
+                            <div class="vk-hover">
+                                <div class="wrapper">
+                                    <div class="inner-wrapper">
+                                        <div class="content">
+                                            <div class="vk-sub-title">office</div>
+                                            <h4 class="vk-main-title">
+                                                office's furniture
+                                            </h4>
+                                            <div class="vk-list-meta">
+
+                                            </div>
+                                            <!--./vk-list-meta-->
+                                        </div>
+                                        <!--./content-->
+                                    </div>
+                                    <!--./inner-wrapper-->
+                                </div>
+                                <!--./wrapper-->
+                            </div>
+                            <!--./vk-hover-->
+                        </div>
+                    </li>
+
+                    <li class="col-sm-6 col-md-3 ">
+                        <div class="vk-list-project-item">
+                            <div class="vk-img-frame proj">
+                                <img src="images/portfolio/office (1).webp" alt="" />
+                            </div>
+
+                            <div class="vk-hover">
+                                <div class="wrapper">
+                                    <div class="inner-wrapper">
+                                        <div class="content">
+                                            <div class="vk-sub-title">office</div>
+                                            <h4 class="vk-main-title">
+                                                office's furniture
+                                            </h4>
+                                            <div class="vk-list-meta">
+
+                                            </div>
+                                            <!--./vk-list-meta-->
+                                        </div>
+                                        <!--./content-->
+                                    </div>
+                                    <!--./inner-wrapper-->
+                                </div>
+                                <!--./wrapper-->
+                            </div>
+                            <!--./vk-hover-->
+                        </div>
+                    </li>
+
+                    <li class="col-sm-6 col-md-3 ">
+                        <div class="vk-list-project-item">
+                            <div class="vk-img-frame proj">
+                                <img src="images/portfolio/bathroom.webp" alt="" />
+                            </div>
+
+                            <div class="vk-hover">
+                                <div class="wrapper">
+                                    <div class="inner-wrapper">
+                                        <div class="content">
+                                            <div class="vk-sub-title">bathroom</div>
+                                            <h4 class="vk-main-title">
+                                                bathroom's furniture
+                                            </h4>
+                                            <div class="vk-list-meta">
+
+                                            </div>
+                                            <!--./vk-list-meta-->
+                                        </div>
+                                        <!--./content-->
+                                    </div>
+                                    <!--./inner-wrapper-->
+                                </div>
+                                <!--./wrapper-->
+                            </div>
+                            <!--./vk-hover-->
+                        </div>
+                    </li>
+
+                    <li class="col-sm-6 col-md-3 ">
+                        <div class="vk-list-project-item">
+                            <div class="vk-img-frame proj">
+                                <img src="images/portfolio/office (2).webp" alt="" />
+                            </div>
+
+                            <div class="vk-hover">
+                                <div class="wrapper">
+                                    <div class="inner-wrapper">
+                                        <div class="content">
+                                            <div class="vk-sub-title">office</div>
+                                            <h4 class="vk-main-title">
+                                                office's furniture
+                                            </h4>
+                                            <div class="vk-list-meta">
+
+                                            </div>
+                                            <!--./vk-list-meta-->
+                                        </div>
+                                        <!--./content-->
+                                    </div>
+                                    <!--./inner-wrapper-->
+                                </div>
+                                <!--./wrapper-->
+                            </div>
+                            <!--./vk-hover-->
+                        </div>
+                    </li>
+                </ul>
+
+                <div class="portfolio ">
+                    <div class=" vk-buttons ">
+                        <a href=" portfolio.php" class="vk-btn vk-btn-view-project">SEE MORE &nbsp;<i class="fa fa-long-arrow-right"></i></a>
+                    </div>
+                </div>
+            </div>
+
+            <!--./vk-home-portfolio-->
+
+            <div class="vk-home-blog">
+                <div class="vk-heading-box text-center">
+                    <h6 class="vk-heading vk-heading-style-1">CLIENTS</h6>
+                    <h4 class="vk-heading vk-heading-style-2 vk-heading-main">
+                        <span class="vk-line-box">
+                            04<span class="vk-line"></span>
+                        </span>
+                        SATISFIED<span class="vk-text-color-yellow-1"> CUSTOMERS</span>
+                    </h4>
+                </div>
+                <!--./vk-heading-box-->
+
+            </div>
+            <!--./container-->
+    </div>
+    <!--./vk-home-blog-->
+
+    <div class="vk-home-testimonial default">
+        <div class="container">
+            <div class="wrapper">
+                <div class="vk-heading-box text-right">
+                    <h6 class="vk-heading vk-heading-style-1"></h6>
+                    <h4 class="vk-heading vk-heading-style-2 vk-heading-main">
+                        <span class="vk-line-box">
+                            <span class="vk-line"></span>
+                            <span class="vk-text-color-yellow-1"></span>
+                    </h4>
+                </div>
+                <!--./vk-heading-box-->
+
+
+
+                <div class="vk-testimonial-list vk-slider-arrow-style-1">
+                    <div class="slide-for vk-slider" data-slider-name="testimonial-slide-for">
+                        <div class="vk-testimonial-item">
+                            <i class="vk-icon fa fa-quote-left"></i>
+                            <h5 class="vk-title vk-text-color-yellow-1">
+                                BraceBrownn's Mission
+                            </h5>
+                            <p class="vk-text">
+                                Our mission is to put smile on our clients' face,
+                                improve their lifestyle irrespective of their class with
+                                our design and their space should show off their tastes
+                                and personality, leaving a lasting impression on
+                                everyone that comes in contact with them.
+                            </p>
+
+                        </div>
+                        <!--./testimonial-->
+
+                        <div class="vk-testimonial-item">
+                            <i class="vk-icon fa fa-quote-left"></i>
+                            <h5 class="vk-title vk-text-color-yellow-1
+                                    ">
+                                BraceBrownn's Vision
+                            </h5>
+                            <p class="vk-text">
+                                To make our brand a household name and also creating
+                                awareness of a clean environment that will improve our
+                                health status.
+                            </p>
+
+                        </div>
+                        <!--./testimonial-->
+
+
+
+
+
+                    </div>
+
+                    <ul class="vk-list vk-list-inline vk-slider slide-nav vk-slide-nav-top-left" data-slider-name="testimonial-slide-nav">
+                        <li class="vk-testimonial-item-1">
+                            <div class="vk-img-frame">
+                                <img src="images/testimonial/testimonial-1.webp" alt="" />
                             </div>
                         </li>
 
-                        <li class="col-sm-6 col-md-3 ">
-                            <div class="vk-list-project-item">
-                                <div class="vk-img-frame proj">
-                                    <img src="images/portfolio/bedroom.webp" alt="" />
-                                </div>
-
-                                <div class="vk-hover">
-                                    <div class="wrapper">
-                                        <div class="inner-wrapper">
-                                            <div class="content">
-                                                <div class="vk-sub-title">bedroom</div>
-                                                <h4 class="vk-main-title">
-                                                    bedroom's furniture
-                                                </h4>
-                                                <div class="vk-list-meta">
-
-                                                </div>
-                                                <!--./vk-list-meta-->
-                                            </div>
-                                            <!--./content-->
-                                        </div>
-                                        <!--./inner-wrapper-->
-                                    </div>
-                                    <!--./wrapper-->
-                                </div>
-                                <!--./vk-hover-->
+                        <li class="vk-testimonial-item-1">
+                            <div class="vk-img-frame">
+                                <img src="images/testimonial/testimonial-2.webp" alt="" />
                             </div>
                         </li>
 
-                        <li class="col-sm-6 col-md-3 ">
-                            <div class="vk-list-project-item">
-                                <div class="vk-img-frame proj">
-                                    <img src="images/portfolio/living (3).webp" alt="" />
-                                </div>
-
-                                <div class="vk-hover">
-                                    <div class="wrapper">
-                                        <div class="inner-wrapper">
-                                            <div class="content">
-                                                <div class="vk-sub-title">living room</div>
-                                                <h4 class="vk-main-title">
-                                                    living room furnite
-                                                </h4>
-                                                <div class="vk-list-meta">
-
-                                                </div>
-                                                <!--./vk-list-meta-->
-                                            </div>
-                                            <!--./content-->
-                                        </div>
-                                        <!--./inner-wrapper-->
-                                    </div>
-                                    <!--./wrapper-->
-                                </div>
-                                <!--./vk-hover-->
+                        <li class="vk-testimonial-item-1">
+                            <div class="vk-img-frame">
+                                <img src="images/testimonial/testimonial-3.webp" alt="" />
                             </div>
                         </li>
 
-                        <li class="col-sm-6 col-md-3 ">
-                            <div class="vk-list-project-item">
-                                <div class="vk-img-frame proj">
-                                    <img src="images/portfolio/bedroom.webp" alt="" />
-                                </div>
-
-                                <div class="vk-hover">
-                                    <div class="wrapper">
-                                        <div class="inner-wrapper">
-                                            <div class="content">
-                                                <div class="vk-sub-title">bedroom</div>
-                                                <h4 class="vk-main-title">
-                                                    bedroom's furniture
-                                                </h4>
-                                                <div class="vk-list-meta">
-
-                                                </div>
-                                                <!--./vk-list-meta-->
-                                            </div>
-                                            <!--./content-->
-                                        </div>
-                                        <!--./inner-wrapper-->
-                                    </div>
-                                    <!--./wrapper-->
-                                </div>
-                                <!--./vk-hover-->
+                        <li class="vk-testimonial-item-1">
+                            <div class="vk-img-frame">
+                                <img src="images/testimonial/testimonial-4.webp" alt="" />
                             </div>
                         </li>
 
-                        <li class="col-sm-6 col-md-3 ">
-                            <div class="vk-list-project-item">
-                                <div class="vk-img-frame proj">
-                                    <img src="images/portfolio/office.webp" alt="" />
-                                </div>
-
-                                <div class="vk-hover">
-                                    <div class="wrapper">
-                                        <div class="inner-wrapper">
-                                            <div class="content">
-                                                <div class="vk-sub-title">office</div>
-                                                <h4 class="vk-main-title">
-                                                    office's furniture
-                                                </h4>
-                                                <div class="vk-list-meta">
-
-                                                </div>
-                                                <!--./vk-list-meta-->
-                                            </div>
-                                            <!--./content-->
-                                        </div>
-                                        <!--./inner-wrapper-->
-                                    </div>
-                                    <!--./wrapper-->
-                                </div>
-                                <!--./vk-hover-->
-                            </div>
-                        </li>
-
-                        <li class="col-sm-6 col-md-3 ">
-                            <div class="vk-list-project-item">
-                                <div class="vk-img-frame proj">
-                                    <img src="images/portfolio/office (1).webp" alt="" />
-                                </div>
-
-                                <div class="vk-hover">
-                                    <div class="wrapper">
-                                        <div class="inner-wrapper">
-                                            <div class="content">
-                                                <div class="vk-sub-title">office</div>
-                                                <h4 class="vk-main-title">
-                                                    office's furniture
-                                                </h4>
-                                                <div class="vk-list-meta">
-
-                                                </div>
-                                                <!--./vk-list-meta-->
-                                            </div>
-                                            <!--./content-->
-                                        </div>
-                                        <!--./inner-wrapper-->
-                                    </div>
-                                    <!--./wrapper-->
-                                </div>
-                                <!--./vk-hover-->
-                            </div>
-                        </li>
-
-                        <li class="col-sm-6 col-md-3 ">
-                            <div class="vk-list-project-item">
-                                <div class="vk-img-frame proj">
-                                    <img src="images/portfolio/bathroom.webp" alt="" />
-                                </div>
-
-                                <div class="vk-hover">
-                                    <div class="wrapper">
-                                        <div class="inner-wrapper">
-                                            <div class="content">
-                                                <div class="vk-sub-title">bathroom</div>
-                                                <h4 class="vk-main-title">
-                                                    bathroom's furniture
-                                                </h4>
-                                                <div class="vk-list-meta">
-
-                                                </div>
-                                                <!--./vk-list-meta-->
-                                            </div>
-                                            <!--./content-->
-                                        </div>
-                                        <!--./inner-wrapper-->
-                                    </div>
-                                    <!--./wrapper-->
-                                </div>
-                                <!--./vk-hover-->
-                            </div>
-                        </li>
-
-                        <li class="col-sm-6 col-md-3 ">
-                            <div class="vk-list-project-item">
-                                <div class="vk-img-frame proj">
-                                    <img src="images/portfolio/office (2).webp" alt="" />
-                                </div>
-
-                                <div class="vk-hover">
-                                    <div class="wrapper">
-                                        <div class="inner-wrapper">
-                                            <div class="content">
-                                                <div class="vk-sub-title">office</div>
-                                                <h4 class="vk-main-title">
-                                                    office's furniture
-                                                </h4>
-                                                <div class="vk-list-meta">
-
-                                                </div>
-                                                <!--./vk-list-meta-->
-                                            </div>
-                                            <!--./content-->
-                                        </div>
-                                        <!--./inner-wrapper-->
-                                    </div>
-                                    <!--./wrapper-->
-                                </div>
-                                <!--./vk-hover-->
+                        <li class="vk-testimonial-item-1">
+                            <div class="vk-img-frame">
+                                <img src="images/testimonial/testimonial-5.webp" alt="" />
                             </div>
                         </li>
                     </ul>
-
-                    <div class="portfolio ">
-                        <div class=" vk-buttons ">
-                            <a href=" portfolio.php" class="vk-btn vk-btn-view-project">SEE MORE &nbsp;<i class="fa fa-long-arrow-right"></i></a>
-                        </div>
-                    </div>
                 </div>
-
-                <!--./vk-home-portfolio-->
-
-                <div class="vk-home-blog">
-                    <div class="vk-heading-box text-center">
-                        <h6 class="vk-heading vk-heading-style-1">CLIENTS</h6>
-                        <h4 class="vk-heading vk-heading-style-2 vk-heading-main">
-                            <span class="vk-line-box">
-                                04<span class="vk-line"></span>
-                            </span>
-                            SATISFIED<span class="vk-text-color-yellow-1"> CUSTOMERS</span>
-                        </h4>
-                    </div>
-                    <!--./vk-heading-box-->
-
-                </div>
-                <!--./container-->
+                <!--./vk-testimonial-list-->
             </div>
-            <!--./vk-home-blog-->
-
-            <div class="vk-home-testimonial default">
-                <div class="container">
-                    <div class="wrapper">
-                        <div class="vk-heading-box text-right">
-                            <h6 class="vk-heading vk-heading-style-1"></h6>
-                            <h4 class="vk-heading vk-heading-style-2 vk-heading-main">
-                                <span class="vk-line-box">
-                                    <span class="vk-line"></span>
-                                    <span class="vk-text-color-yellow-1"></span>
-                            </h4>
-                        </div>
-                        <!--./vk-heading-box-->
+            <!--./wrapper-->
+        </div>
+        <!--./container-->
+    </div>
+    <!--./vk-home-testimonial-->
 
 
-
-                        <div class="vk-testimonial-list vk-slider-arrow-style-1">
-                            <div class="slide-for vk-slider" data-slider-name="testimonial-slide-for">
-                                <div class="vk-testimonial-item">
-                                    <i class="vk-icon fa fa-quote-left"></i>
-                                    <h5 class="vk-title vk-text-color-yellow-1">
-                                        BraceBrownn's Mission
-                                    </h5>
-                                    <p class="vk-text">
-                                        Our mission is to put a smile on our clients' faces,
-                                        improve their lifestyle irrespective of their class with
-                                        our design and their space should show off their tastes
-                                        and personality, leaving a lasting impression on
-                                        everyone that comes in contact with them.
-                                    </p>
-
-                                </div>
-                                <!--./testimonial-->
-
-                                <div class="vk-testimonial-item">
-                                    <i class="vk-icon fa fa-quote-left"></i>
-                                    <h5 class="vk-title vk-text-color-yellow-1
-                                    ">
-                                        BraceBrownn's Vision
-                                    </h5>
-                                    <p class="vk-text">
-                                        To make our brand a household name and also creating
-                                        awareness of a clean environment that will improve our
-                                        health status.
-                                    </p>
-
-                                </div>
-                                <!--./testimonial-->
-
-
-
-
-
-                            </div>
-
-                            <ul class="vk-list vk-list-inline vk-slider slide-nav vk-slide-nav-top-left" data-slider-name="testimonial-slide-nav">
-                                <li class="vk-testimonial-item-1">
-                                    <div class="vk-img-frame">
-                                        <img src="images/testimonial/testimonial-1.webp" alt="" />
-                                    </div>
-                                </li>
-
-                                <li class="vk-testimonial-item-1">
-                                    <div class="vk-img-frame">
-                                        <img src="images/testimonial/testimonial-2.webp" alt="" />
-                                    </div>
-                                </li>
-
-                                <li class="vk-testimonial-item-1">
-                                    <div class="vk-img-frame">
-                                        <img src="images/testimonial/testimonial-3.webp" alt="" />
-                                    </div>
-                                </li>
-
-                                <li class="vk-testimonial-item-1">
-                                    <div class="vk-img-frame">
-                                        <img src="images/testimonial/testimonial-4.webp" alt="" />
-                                    </div>
-                                </li>
-
-                                <li class="vk-testimonial-item-1">
-                                    <div class="vk-img-frame">
-                                        <img src="images/testimonial/testimonial-5.webp" alt="" />
-                                    </div>
-                                </li>
-                            </ul>
-                        </div>
-                        <!--./vk-testimonial-list-->
-                    </div>
-                    <!--./wrapper-->
-                </div>
-                <!--./container-->
-            </div>
-            <!--./vk-home-testimonial-->
-
-
-            <!-- ./vk-home-client-->
+    <!-- ./vk-home-client-->
 
     </div>
     <!--./home-->

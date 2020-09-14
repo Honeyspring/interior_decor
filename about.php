@@ -68,20 +68,20 @@
 
                                         <div class="content">
                                             <p class="vk-text-strong">
-                                                who specializes in interior and exterior services for
+                                                we specialize in interior and exterior services for
                                                 both commercial and residential spaces
                                             </p>
                                             <p>
                                                 BraceBrownn Innovations Limited popularly known as
                                                 Bracebrownn; is an interior design company based in
-                                                Lagos Nigeria that specializes in interior and
+                                                Lagos ,Nigeria that specializes in interior and
                                                 exterior services for both commercial and residential
                                                 spaces. We carefully followed and observed the Tenets
                                                 of interior design; which we considered very important
                                                 in all our projects and this has guided us as we take
                                                 each project from start to finish. The passion for
                                                 arranging spaces and creating beautiful accessories
-                                                pieces that look like the play was becoming an
+                                                pieces that looks like play was becoming an
                                                 enterprise hence the birth of Bracebrownn design. The
                                                 journey has been a learning and a self-discovery
                                                 process and this has improved the quality of our
@@ -102,19 +102,19 @@
                                                 Gbagada, CBC Festac,Foodies & Spice, Port Harcourt
                                                 Project, Whiteoak, Ikeja Apartment, Brandsyard to
                                                 mention but few. We welcome you onboard to bracebrownn
-                                                clique Bracebrownn
+                                                clique .
+                                                <h5 style="color:#654321; font-family:'Arial verdana'"><i>Bracebrownn</i> </h5>
                                             </p>
                                         </div>
                                     </div>
                                     <!--./inner-wrapper-->
                                 </div>
                                 <!--./col-md-7-->
-
                                 <div class="col-sm-5 col-md-5 vk-content-left">
                                     <div class="vk-image">
                                         <div class="vk-img-frame">
                                             <a href="#" class="vk-img">
-                                                <img src="images/portfolio/living.webp" alt="" />
+                                                <img src="images/portfolio/office (6).webp" alt="" />
                                             </a>
                                         </div>
                                     </div>
@@ -185,7 +185,7 @@
                             <span class="vk-text-color-yellow-1">concerning interior.</span>
                         </h1>
 
-                        <div class="row">
+                        <div class="row" style="display:flex;flex-wrap:wrap">
                             <div class="col-md-4 col-sm-6">
                                 <div class="vk-iconbox vk-iconbox-center">
                                     <div class="vk-icon">
@@ -194,8 +194,8 @@
                                     <div class="iconbox-content">
                                         <h5 class="vk-title">Living Room</h5>
                                         <p class="vk-text">
-                                            The Living room is your first impression and We know how
-                                            to impress .
+                                            The Living room welcomes not your guest alone,but you anytime you walk in and so it must be intresting to
+                                            impress you as well as your guests.
                                         </p>
                                     </div>
                                 </div>
@@ -209,7 +209,7 @@
                                     <div class="iconbox-content">
                                         <h5 class="vk-title">Bed Room</h5>
                                         <p class="vk-text">
-                                            Beautiful designs for your bedrooms .
+                                            The bedroom is where you retire to after a long day work,your bed should be comfortable and enjoyable.
                                         </p>
                                     </div>
                                 </div>
@@ -223,8 +223,7 @@
                                     <div class="iconbox-content">
                                         <h5 class="vk-title">Kitchen</h5>
                                         <p class="vk-text">
-                                            Kitchen is where the art of food is created so we give
-                                            you the best.
+                                            When kitchen is beautiful and functional,cooking becomes interesting and fun.
                                         </p>
                                     </div>
                                 </div>
@@ -238,8 +237,7 @@
                                     <div class="iconbox-content">
                                         <h5 class="vk-title">Office</h5>
                                         <p class="vk-text">
-                                            We ensure your office stands out and make your office
-                                            show the boss you are.
+                                            The beauty you see around you affects the quality of your work,we make your office space a productive environment with our design.
                                         </p>
                                     </div>
                                 </div>
@@ -254,8 +252,7 @@
                                     <div class="iconbox-content">
                                         <h5 class="vk-title">Dining</h5>
                                         <p class="vk-text">
-                                            Gather all to wonderful seat and table set to share
-                                            meal.
+                                            Nothing feels good like having meal with those you love in a serene and clean space.
                                         </p>
                                     </div>
                                 </div>
@@ -269,7 +266,7 @@
                                     <div class="iconbox-content">
                                         <h5 class="vk-title">Sofa</h5>
                                         <p class="vk-text">
-                                            comfy seats for everyone,unique and affordable.
+                                            Beautiful seats adds glamour to your space,comfortable sofa sets your body right.
                                         </p>
                                     </div>
                                 </div>
@@ -312,7 +309,7 @@
                                             <div class="vk-title">Email Address</div>
                                             <p class="vk-contact-info">
 
-                                                <a href="mailto: yemi_christy@yahoo.com"> yemi_christy@yahoo.com</a>
+                                                <a href="mailto: christiana@bracebrownn.com"> christiana@bracebrownn.com</a>
                                             </p>
                                         </div>
                                     </li>
@@ -321,6 +318,7 @@
                                             <i class="vk-icon ti-mobile"></i>
                                             <div class="vk-title">Contact</div>
                                             <p class="vk-contact-info">
+                                                <a href="callto:+2348025519339"> 08025519339</a><br />
                                                 <a href="callto:+2348171883657"> 08171883657</a><br />
 
                                             </p>

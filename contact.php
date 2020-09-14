@@ -26,7 +26,7 @@
 
         <?php include('./header.html') ?>
         <section class="vk-content ">
-            <div class="vk-banner vk-background-image-1">
+            <div class="vk-banner vk-background-image-4">
                 <div class="vk-background-overlay vk-background-black _70"></div>
                 <div class="container ">
                     <div class="vk-banner-wrapper">
@@ -68,7 +68,7 @@
                                             <i class="vk-icon ti-email"></i>
                                             <div class="vk-title"> Email Address</div>
                                             <p class="vk-contact-info">
-                                                <a href="mailto: yemi_christy@yahoo.com"> yemi_christy@yahoo.com</a>
+                                                <a href="mailto: christiana@bracebrownn.com"> christiana@bracebrownn.com</a>
 
                                             </p>
                                         </div>
@@ -78,6 +78,7 @@
                                             <i class="vk-icon ti-mobile"></i>
                                             <div class="vk-title"> Contact</div>
                                             <p class="vk-contact-info">
+                                                <a href="callto:+2348025519339"> 08025519339</a><br />
                                                 <a href="callto:+2348171883657"> 08171883657</a><br />
                                             </p>
                                         </div>

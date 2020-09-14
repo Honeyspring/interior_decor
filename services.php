@@ -26,7 +26,7 @@
         <!--./vk-header-->
 
         <section class="vk-content">
-            <div class="vk-banner vk-background-image-3">
+            <div class="vk-banner vk-background-image-1">
                 <div class="vk-background-overlay vk-background-black _70"></div>
                 <div class="container">
                     <div class="vk-banner-wrapper">
@@ -57,7 +57,7 @@
                                     <div class="vk-image">
                                         <div class="vk-img-frame ">
 
-                                            <img src="images/portfolio/living.webp" alt="" />
+                                            <img src="images/portfolio/living (11).webp" alt="" />
 
                                         </div>
                                     </div>
@@ -97,7 +97,7 @@
                                     <div class="vk-image">
                                         <div class="vk-img-frame ">
 
-                                            <img src="images/portfolio/bedroom.webp" alt="" />
+                                            <img src="images/portfolio/bedroom (7).webp" alt="" />
 
                                         </div>
                                     </div>
@@ -188,7 +188,7 @@
                                     <div class="vk-image">
                                         <div class="vk-img-frame ">
 
-                                            <img src="images/portfolio/office.jpg" alt="" />
+                                            <img src="images/portfolio/office.webp" alt="" />
 
                                         </div>
                                     </div>
